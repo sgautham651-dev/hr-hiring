@@ -1,0 +1,24 @@
+Candidate IT 036
+candidate.it036@example.com | +1 555 019 0036
+
+Profile
+Database Administrator Job
+
+Education
+- Masters in Computer Science in Computer Science
+
+Technical Skills
+Software Developer span lSoftwarespan span lDeveloperspan Software Developer HCL America New York NY Over 5 years of diverse experience in the field of Web Application Development including ClientServer with proficiency in HTML CSS XHTML JavaScript jQuery AJAX XML and JSON Experienced in working on ES6 and ES7 with AngularJS and Angular 2 Experienced in Unit Testing and Integration Testing using Jasmine and Karma Experienced in GUI development using HTML CSS JavaScript Bootstrap and Angular Material Experience with webbased enterprise platforms using JavaJEE technologies Able to analyze busine
+
+Projects
+- Developer span lSoftwarespan span lDeveloperspan
+- York NY Over 5 years of diverse experience in the field of
+- ClientServer with proficiency in HTML CSS XHTML JavaScript jQuery AJAX XML and JSON Experienced in working on ES6 and ES7 with
+
+Experience
+- Experienced in GUI development using HTML CSS JavaScript
+- Experience with webbased enterprise platforms using
+- Able to analyze business requirements and formulate a design in both individual and team scenarios
+
+Additional Resume Text
+Software Developer span lSoftwarespan span lDeveloperspan Software Developer HCL America New York NY Over 5 years of diverse experience in the field of Web Application Development including ClientServer with proficiency in HTML CSS XHTML JavaScript jQuery AJAX XML and JSON Experienced in working on ES6 and ES7 with AngularJS and Angular 2 Experienced in Unit Testing and Integration Testing using Jasmine and Karma Experienced in GUI development using HTML CSS JavaScript Bootstrap and Angular Material Experience with webbased enterprise platforms using JavaJEE technologies Able to analyze business requirements and formulate a design in both individual and team scenarios Experience working on full stack development in the recent projects with various JavaScript frameworks and java technologies Experience in Micro Services development using spring boot and deployment in Microsoft Azure cloud Proficient in using Docker for spinning up loosely coupled microservices needed for development and using Microsoft Azure for QA Deployments Working experience with relational and nosql databases such as Oracle SQL Server MongoDB and using Drivers and Spring Data for interaction Experienced in using Webpack as module bundling tools Experienced with Star Team CA Rally GitHub and BitBucket Strong experience working in all phases of software development life cycle SDLC Excellent communication skills team player quick learner and selfmotivated Experience in various methodologies like waterfall and Agile Experienced in managing daily communication with offshore development teams Ability to learn new frameworks design patterns quickly and adapt Work Experience Software Developer HCL America Secaucus NJ December 2018 to Present Project Quest Clinical Trial Connect QCTC Responsibilities Analyze requirements and contribute in design and highlevel architecture Extensively involved in various phases of Software Development Life Cycle such as Requirements Analysis Design and Implementation and Maintenance in Agile environment Designed and developed the dynamic web application using HTML5 CSS3 SCSS ECMAScript ES6 JQuery Node JS Bootstrap Angular 4 Created Responsive Web Design using React JS Ember JS Bootstrap and CSS Media Queries Highly available and autoscalable set of microservices with zerodowntime deployment unified monitoring and logging Docker Azure Jenkins Created micro services to provide RESTful API utilizing Spring Boot with Spring MVC Implemented complex applications using NoSQL MongoDB to speed up the query for parts and java using Microsoft Azure Created Typescript reusable components and services to consume RESTful APIs using Component based architecture provided by Angular 4 Have used RXJS with Angular 4 to create Observables in implementing the various functionality and used NgRx to maintain the status of the application Involved in writing SQL queries PLSQL Stored procedures function triggers cursors object types Cursors sequences indexes etc Use agile development methodology Day to day communication with onshoreoffshore team members through mail phone and conference calls for status update resolving issues understanding business requirements Used Git Borland Star Team for the version control Handle auto deploys to QA Azure environments using Jenkins and Git Configurations on code pushes to various projects Used Jenkins for continuous integration and Maven for build process Software Developer HCL America Secaucus NJ May 2018 to November 2018 Proje

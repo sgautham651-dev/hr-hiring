@@ -1,0 +1,24 @@
+Candidate IT 017
+candidate.it017@example.com | +1 555 019 0017
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Network Administrator span lNetworkspan span lAdministratorspan Network Administrator Winthrop and Weinstine Marine on Saint Croix MN Work Experience Network Administrator Winthrop and Weinstine Minneapolis MN December 1997 to Present Responsible for managing all backend systems for a 250person law firm with revenues over 25 million Responsible for implementing and managing 100 VMware virtualized network with over 120 servers and 250 desktops Using Horizon View for remote access is a big advantage for our lawyers It gives them access to all the resources of the network during a trial at a clie
+
+Projects
+- Administrator span lNetworkspan span lAdministratorspan
+- Minneapolis MN December 1997 to
+- Responsible for managing all backend systems for a 250person law firm with revenues over 25 million
+
+Experience
+- Responsible for implementing and managing 100 VMware virtualized network with over 120 servers and 250 desktops
+- View for remote access is a big advantage for our lawyers
+- It gives them access to all the resources of the network during a trial at a clients site or at home
+
+Additional Resume Text
+Network Administrator span lNetworkspan span lAdministratorspan Network Administrator Winthrop and Weinstine Marine on Saint Croix MN Work Experience Network Administrator Winthrop and Weinstine Minneapolis MN December 1997 to Present Responsible for managing all backend systems for a 250person law firm with revenues over 25 million Responsible for implementing and managing 100 VMware virtualized network with over 120 servers and 250 desktops Using Horizon View for remote access is a big advantage for our lawyers It gives them access to all the resources of the network during a trial at a clients site or at home All remote access is authenticated using MFA DR is accomplished using vSphere replication and SRM at our remote data center Redundant Exchange AD vCenter and Horizon View servers are live at the DR site Designed and Implemented a system to clean client data before its used by Relativity eDiscovery Raw data from our clients machines are scrubbed using series of subnets and antivirusmalware software before being read into Relativity Since following this procedure no malware has been introduced onto our system from clients data Recommended and implemented Palo Alto 850 firewall Our annual external review with TechGuard found no vulnerabilities We have changed our SIEM reviews with Rapid7 from monthly to quarterly because the logs are clean and theres little to discuss Responsible for planning and executing a network consolidation and move to a new location Completed in the time window provided and saving over 250000 in consulting fees Primarily responsible for the following network hardware and applications OS Windows 20162012 vSphere VMware Esxi 67 Workstations 250 Horizon View 70 Remote Access Horizon View 7 with MFA Hosts Cisco UCS blade servers M4 and M5 SAN Nimble 5000 60TB Switches Cisco 4500 3570 6530 Firewall Palo Alto 850 and Cisco Umbrella SIEM Rapid7 Email Exchange 2016 250 users and Mimecast Monitoring Solar Winds Orion Updates Ivanti Patch Manager Cloud Azure MFA Network Consultant CNE Business Microvar Inc August 1991 to November 1997 Provided application and network support to BMIs base of over 500 clients Network installs accounting application conversions and upgrades Clients included MN Vikings Carlson Companies Leann Chin Select Comfort PC Specialist American Guidance Service March 1987 to July 1991 Provided company wide PC support including Network administration evaluation and purchasing PC hardware and software application development user training and trouble shooting Education Bachelor of Science in Environmental Science and Biology University of Wisconsin 1981 Skills Vmware Networking Active Directory Windows Technical Support Security

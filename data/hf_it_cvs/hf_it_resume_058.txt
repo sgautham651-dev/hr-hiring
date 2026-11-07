@@ -1,0 +1,24 @@
+Candidate IT 058
+candidate.it058@example.com | +1 555 019 0058
+
+Profile
+Database Administrator Job
+
+Education
+- Masters Degree in Information Technology in Information Technology
+
+Technical Skills
+Python Developer span lPythonspan span lDeveloperspan Python Developer Huntington National Bank Cincinnati OH Python Developer Work Experience Python Developer Huntington National Bank Cincinnati OH March 2018 to Present Roles Responsibilities Worked with serverside production code for application those are robust and high volume Developed applications using mix of technologies Python Django Flask Pandas REST and SOLR Involved in building database Model APIs and Views utilizing Python in order to build an interactive web based solution Developed entire frontend and backend modules using Python
+
+Projects
+- Developer span lPythonspan span lDeveloperspan
+- Cincinnati OH March 2018 to
+- Worked with serverside production code for application those are robust and high volume
+
+Experience
+- Developed applications using mix of technologies
+- Pandas REST and SOLR Involved in building database
+- Python in order to build an interactive web based solution
+
+Additional Resume Text
+Python Developer span lPythonspan span lDeveloperspan Python Developer Huntington National Bank Cincinnati OH Python Developer Work Experience Python Developer Huntington National Bank Cincinnati OH March 2018 to Present Roles Responsibilities Worked with serverside production code for application those are robust and high volume Developed applications using mix of technologies Python Django Flask Pandas REST and SOLR Involved in building database Model APIs and Views utilizing Python in order to build an interactive web based solution Developed entire frontend and backend modules using Python on Django Web Framework Developed consumerbased features and applications using Python Django pyramid Flask Web2py HTML and other web technologies Worked on several standard Python packages like Numpy Matplotlib Scipy Pandas and PyTables etc Developed dynamic web pages using Python Django Frameworks Created a Python based web application using Python scripting for data processing MySQL for the database and HTMLCSS Troubleshoot ETL failures and performed manual loads using SQL stored procedures Implemented new metrics on the Mede Analytics Software as a Service SaaS Patient Access Analytics platform Wrote Python scripts to parse XML documents and load the data in database Generated property list for every application dynamically using Python Developed web applications and RESTful web services and APIs using Python Django and Flask Worked on PEP8 coding standard and test a program by running it across test cases to ensure validity and effectiveness of code using PyChecker and PyLint Involved in Unit testing and Integration testing of the code using PyTest Used PowerShell for DevOps in Windowsbased systems Involved in various projects related to Data Modeling SystemData Analysis Design and Development for both OLTP and Data warehousing environments Involved in development of Python based Web Services using REST for sending and getting data from the external interface in the JSON format and to track sales and perform sales analysis using Django and PostgreSQL Developed UI using CSS HTML JavaScript AngularJS JQuery and JSON Consumed external APIs and wrote RESTful API using Django REST Framework and AngularJS Connected continuous integration system with GIT version control repository and continually build as the checkins come from the developer Wrote Stored Procedures in SQL and Scripts in Python for data loading Displayed and proved capability to learn any new technology and work on it Involved in writing and reviewing requirements architecture documents test plans design and maintaining documents quality analysis and helping with the software release process Environment Python Django Pandas Flask REST DevOps Data E SOLR Jira Bugzilla PyTest PyChecker PyLint JavaScript Angularjs JSON JQuery AJAX HTML CSS PostgreSQL Agile LINUX and Windows Python Developer Great West Financials Overland Park KS November 2016 to February 2018 Roles Responsibilities Worked with full software development lifecycle SDLC architecting scalable platforms object oriented Programming database design and agile methodologies Developed Views and Templates with Python and using Djangos view controller and template language for the Web application Performed testing using Djangos Test Module Wrote small code to test their behavior and webbased desktop applications Implemented Microservices architecture in developing the web application with the help of Flask framework Worked with Pyt

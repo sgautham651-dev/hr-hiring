@@ -1,0 +1,14 @@
+To: Ananya Iyer <ananya.iyer@example.com>
+Subject: Interview Invitation - Flutter Role
+Released: 2026-11-07T12:36:15
+
+Dear Ananya,
+
+We'd like to invite you to an interview for the Flutter area, regarding application APP-0001.
+
+The interview is scheduled for Monday 9 November 2026 at 09:30.
+
+Please reply to confirm your attendance.
+
+Kind regards,
+Hiring Team

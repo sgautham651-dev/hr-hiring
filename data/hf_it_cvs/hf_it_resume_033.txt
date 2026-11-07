@@ -1,0 +1,24 @@
+Candidate IT 033
+candidate.it033@example.com | +1 555 019 0033
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Senior Software Engineer Senior span lSoftwarespan Engineer Senior Software Engineer Healthcare Finance Direct Bakersfield Bakersfield CA Work Experience Senior Software Engineer Healthcare Finance Direct Bakersfield April 2019 to Present Designed and developed advanced logging software that replaced an anpremise solution with a decoupled cloud solution using Amazon Message Queue and SQL Server running on an Amazon box Configured real time monitoring using a web application called Data Dog to increase visibility of primary business functions Maintain troubleshoot and add features to legacy sof
+
+Projects
+- Designed and developed advanced logging software that replaced an anpremise solution with a decoupled cloud solution using
+- Queue and SQL Server running on an
+- Configured real time monitoring using a web application called
+
+Experience
+- Dog to increase visibility of primary business functions
+- Maintain troubleshoot and add features to legacy software as we work to migrate to more modern loosely coupled client and server applications
+- Develop robust reports using SSRS and SQL Server
+
+Additional Resume Text
+Senior Software Engineer Senior span lSoftwarespan Engineer Senior Software Engineer Healthcare Finance Direct Bakersfield Bakersfield CA Work Experience Senior Software Engineer Healthcare Finance Direct Bakersfield April 2019 to Present Designed and developed advanced logging software that replaced an anpremise solution with a decoupled cloud solution using Amazon Message Queue and SQL Server running on an Amazon box Configured real time monitoring using a web application called Data Dog to increase visibility of primary business functions Maintain troubleshoot and add features to legacy software as we work to migrate to more modern loosely coupled client and server applications Develop robust reports using SSRS and SQL Server Senior Developer AC Electric Company Bakersfield June 2016 to April 2018 As the first web developer at the company I was responsible for building over a dozen custom line of business applications Over the course of 3 years I taught and trained another developer who was able to successfully replace me upon my departure As a full stack developer I had full control and built several RESTful Web Apis using NET core that handled complex business rules data connections and security that powered our frontend apps using React JS I instituted a remote work policy for the developers one of whom was filling the role as UIUX designer that increased productivity by over 30 Database Administrator PanamaBuena Vista Union School District Bakersfield November 2015 to June 2016 Created a robust backup disaster and recovery plan BDR Plan Created OLAP data services for reporting Optimized SQL performance Created an analytics application that helped teachers and administrators better monitor and intervene when children needed the most help Automated over a hundred manual processes using simple console applications that connected to various state and city data sources Programmer I Kern County Probation Department Bakersfield January 2015 to November 2015 Designed and built a warehouse application for inventory management Learned SQL and fixed several dozen reports with faulty data and created detailed data driven reports using Excel Skills Data analysis Database administrator Database Microsoft sql server Sql server Sql net Android studio Api Git Html net core Swift Ssrs Devops Android Jira Css Front end Workflow Javascript Linux Java Links httpswwwlinkedincominbryanmudge3a9ab71a Additional Information SKILLS AND ACCOMPLISHMENTS Backend NET NET Core Web Api Microservices AWS Azure Google Cloud MSSQL Data Analysis SSRS Frontend HTML CSS JS React Node Adobe XD Mobile React Native Flutter Swift Android Studio Project Management DevOps Scrum Agile Jira Monday TFS Git Snap Workflow Custom Forms Application Created custom forms application with NET web api and react front end that included custom creation routing and advanced workflows integrated into other line of business applications resulting in a cost savings of over 60000 a year in replacement costs alone Panalytics Data Driven Intervention Tool Developed an analytics application that combined data from over a dozen different state local and internal testing systems into an easy to use application for the faculty at the school district to better track the progress of children as they progressed through the grades which helped improve learning by allowing teachers to intervene at a much earlier time The Drive To Succeed From Zero to Hero in SQL Learned Microsoft SQL Server over the co

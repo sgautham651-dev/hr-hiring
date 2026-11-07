@@ -1,0 +1,24 @@
+Candidate IT 027
+candidate.it027@example.com | +1 555 019 0027
+
+Profile
+Database Administrator Job
+
+Education
+- MS SQL Server 2005 2008 R2 and 2012 SSIS SSRS execute software engineering
+
+Technical Skills
+Senior Software Engineer Senior Software Engineer Senior Software Engineer Planning Systems International Von Ormy TX Work Experience Senior Software Engineer Planning Systems International San Antonio TX July 2018 to Present In support of the Defense Health Agency and the Medical Education and Training Campus METC responsibilities are to support the staff and organization with automated solutions and database design and support Systems and applications are authored as NET applications the methodologies and architecture designed to satisfy organization and customer requirements including Micro
+
+Projects
+- Campus METC responsibilities are to support the staff and organization with automated solutions and database design and support
+- Systems and applications are authored as NET applications the methodologies and architecture designed to satisfy organization and customer requirements including
+- Forms and ASPnet MVC Tools are limited
+
+Experience
+- Responsibilities are tiered software application development in support of the
+- SharePoint development environment using
+- Studio IDE and MOSS SharePoint
+
+Additional Resume Text
+Senior Software Engineer Senior Software Engineer Senior Software Engineer Planning Systems International Von Ormy TX Work Experience Senior Software Engineer Planning Systems International San Antonio TX July 2018 to Present In support of the Defense Health Agency and the Medical Education and Training Campus METC responsibilities are to support the staff and organization with automated solutions and database design and support Systems and applications are authored as NET applications the methodologies and architecture designed to satisfy organization and customer requirements including Microsoft Office SharePoint addins Windows Forms Web Forms and ASPnet MVC Tools are limited Microsoft Visual Studio GitHub components and Microsoft SQL Server Responsibilities are tiered software application development in support of the DoD Medical Education Technical Center METC in a NET and SharePoint development environment using Microsoft Visual Studio IDE and MOSS SharePoint Designer Microsoft SQL Server and Microsoft ACCESS data repositories Application technologies support development of Windows Forms standalonewebbased executables and ASPnet MVC application including Microsoft Office SharePoint addins System Application Software EngineerProject Task Manager BTAS Inc Randolph AFB TX August 2017 to July 2018 Duties Project task lead required to design program document and implement webbased ASPnet and web farmbased ASPnet Core Azure applications that require knowledge of information systems and related systems concepts for effective development and deployment of software modules Participates in all phases of software development with emphasis on the design coding testing documentation and acceptance phases Additional responsibilities include design and preparation of technical reports and related documentation Information Technology Specialist Defense Health Agency Fort Sam Houston TX November 2016 to August 2017 Duties As an IT Specialist APPSW responsible for a variety of duties with these being the major duties developing system and configuration of the Defense Health Agency DHA enterprise internets intranets extranets and multisite support in the area of webbased application programming analysis and problem resolution providing support for applications primarily for web application development of internet intranet and extranet portals as well as numerous other software programs utilities and tools eg Visual Studio JQuery InfoPath and Standard Query Language SQL database technologies developing strategy for optimal use of SQL databases and system integration with other collaborative tools within the organization reporting directly to the Web Strategies and Collaboration Branch Chief as the POC for DHA Intranet SharePoint policy and planning strategies requirements review design strategies and technical specification developments advising leadership on changes and advances in web policies business practices and technologies validating the need for proposed new systems through consultation with customers and program officials Develop Microsoft SharePoint Site Applications sites libraries lists workflows for integration migration into DHA CarePoint system using Microsoft Office SharePoint 2010 and Microsoft SQL Server 2014 database Additional provide Microsoft SharePoint technical support and knowledge to customer POCs and organizations Information Technology Specialist Database Mgt Defense Media Agency March 2015 to November 2016 Duties Responsi

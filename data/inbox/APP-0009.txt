@@ -1,0 +1,22 @@
+Lucas Oliveira
+lucas.oliveira@example.com | +55 11 90000 4521 | Sao Paulo, Brazil
+
+Profile
+Information security graduate focused on finding and fixing weaknesses in networks and systems.
+
+Education
+BSc in Information Systems, University of Sao Paulo (2020 - 2024)
+
+Skills
+Network Security, Linux, Firewalls, Vulnerability Assessment, Wireshark, Kali Linux, Penetration Testing, Python
+
+Projects
+- Home security lab: configured firewalls and an intrusion detection system on Linux
+- Vulnerability assessment of a test web app using OWASP Top 10 and Burp Suite
+- Python script that scans a network and reports open ports and weak services
+
+Experience
+- Security operations assistant, NetGuard Solutions (6 months): monitored alerts and checked firewall rules
+
+Certifications
+CompTIA Security+

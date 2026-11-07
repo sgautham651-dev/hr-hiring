@@ -1,0 +1,24 @@
+Candidate IT 034
+candidate.it034@example.com | +1 555 019 0034
+
+Profile
+Database Administrator Job
+
+Education
+- Bachelors in Mechanical Engineering in Mechanical Engineering
+
+Technical Skills
+Java Developer span lJavaspan span lDeveloperspan Miami FL Around 5 years of experience in the IT industry with diversified exposure in Software Process Engineering designing building and testing a Web Application using JavaJ2EE technology Proficient working with Design Development and Implementation in the field of Web Applications development using HTML CSS XHTML JavaScript jQuery Angular JS Bootstrap AJAX XML JSON Restful web services and Responsive web designing JAXP JAXB JSON JSTL Backbone JS PHP Express JS YUI yahoo UI Ext JS React JS Node JS and AJAX meeting W3C standards Expertise in s
+
+Projects
+- Developer span lJavaspan span lDeveloperspan
+- Miami FL Around 5 years of experience in the IT industry with diversified exposure in
+- Engineering designing building and testing a
+
+Experience
+- Implementation in the field of
+- Applications development using HTML CSS XHTML JavaScript jQuery
+- Angular JS Bootstrap AJAX XML JSON Restful web services and
+
+Additional Resume Text
+Java Developer span lJavaspan span lDeveloperspan Miami FL Around 5 years of experience in the IT industry with diversified exposure in Software Process Engineering designing building and testing a Web Application using JavaJ2EE technology Proficient working with Design Development and Implementation in the field of Web Applications development using HTML CSS XHTML JavaScript jQuery Angular JS Bootstrap AJAX XML JSON Restful web services and Responsive web designing JAXP JAXB JSON JSTL Backbone JS PHP Express JS YUI yahoo UI Ext JS React JS Node JS and AJAX meeting W3C standards Expertise in serverside development with JDBC JNDI Servlets spring frameworks like MVC architecture spring boot analyzing data with Hive Spark using Scala scripts in yaml and xml to manage Database Test data Expertise using Spring CloudNetflix OSS stack for microservices deployment and auto configurations like Ribbon clientside Load Balancer Hystrix latency and fault tolerance library Zuul gate way for routing monitoring security with Eureka service registry and log management with ELK Proficient in working on various Spring modules Spring Core Spring IOC Spring MVC Spring DAO Spring Boot and AOP Batch cloud security along with Hibernate and JPA as the backend ORM tool for implementation of persistence layer and mapping of POJOs Experience using Pivotal Cloud Foundry for building cloud native services Developed Spark scripts by using Scala shell commands as per the requirement and Developed Spark scripts by using Scala shell commands as per the requirement and enhanced the customer search experience by developing searchable components with Splunk Handson writing Stored Procedures functions triggers DDL DML SQL queries Experience in writing SQL PLSQL programming Strong experience on Hibernate and in using Hibernate Connection Pooling HQL Collections Hibernate Caching etc Experience in designing User Interactive UI Web Pages and visually appealing User Interfaces with the help of HTML 5 and CSS3 Expertise in Web Services Technologies like SOAP with WSDL and RESTful using JAXRS specification with Jersey spring Apache CXF and NodeJS and implemented SOA architecture with web services Expertise in coding optimized SQL queries on databases like My SQL SQL Server and Oracle DDL and DML Worked on IDEs like Microsoft visual studio Sublime text IntelliJ Web Storm and Eclipse Proficient in applying design patterns like MVC Singleton Session Facade Factory Abstract Factory Service Locator Visitor Observer Decorator Front Controller Data Access Object Experience in developing web applications using MVC MVVM MVP Singleton architectures Expertise in using source code control systems such as GIT JIRA and Jenkins Solid experience with Responsive Web Design RWD with involvement in several web application development projects Good knowledge on Amazon Web Services AWS cloud platform Solid knowledge on Core Java Multithreading Algorithms and ObjectOriented concepts as well as have good experience with web services like RESTFUL SOAP Implemented XML and related technologies like XSL XSTL XPATH and parsers like JAXP SAX DOM and JAXB Experience in spring framework MVC and Struts MVC Architecture interceptors action mappings and resource bundles Good knowledge in deploying applications on web servers like Apache Tomcat Glassfish and IBM WebSphere Hands on experiences with Core Java with Multithreading Concurrency File Handling IO Generics Data Structures and Collections and Garbage Collec

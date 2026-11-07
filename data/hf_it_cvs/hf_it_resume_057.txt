@@ -1,0 +1,24 @@
+Candidate IT 057
+candidate.it057@example.com | +1 555 019 0057
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Project Image Classification Using Matlab Machine Learning Project Image Classification Using Matlab Machine Learning Actively seeking a Business Intelligence Software Engineer related fulltime role Bellevue WA Authorized to work in the US for any employer Work Experience Project Image Classification Using Matlab Machine Learning Carnegie Mellon University Pittsburgh PA October 2015 to December 2015 Responsibilities Converted 10000 images from 10 different classes into raw features using Histogram of Oriented Gradients HOG feature generation technique Reconstructed the HOG features using Princ
+
+Projects
+- Engineer related fulltime role
+- Bellevue WA Authorized to work in the US for any employer
+- Pittsburgh PA October 2015 to
+
+Experience
+- Converted 10000 images from 10 different classes into raw features using
+- Gradients HOG feature generation technique
+- Reconstructed the HOG features using
+
+Additional Resume Text
+Project Image Classification Using Matlab Machine Learning Project Image Classification Using Matlab Machine Learning Actively seeking a Business Intelligence Software Engineer related fulltime role Bellevue WA Authorized to work in the US for any employer Work Experience Project Image Classification Using Matlab Machine Learning Carnegie Mellon University Pittsburgh PA October 2015 to December 2015 Responsibilities Converted 10000 images from 10 different classes into raw features using Histogram of Oriented Gradients HOG feature generation technique Reconstructed the HOG features using Principle Component Analysis preserved 95 of the variance Trained Nave Bayes Logistic Regression KNN and Random Forest classifiers using the reconstructed features with crossvalidation Achieved the highest classification accuracy of 803 with Logistic Regression classifier Skills Used Machine Learning Classification Matlab PCA Feature Engineering Project Advanced Business Analytics Product Recommendation Using R Carnegie Mellon University Pittsburgh PA September 2015 to October 2015 Responsibilities Applied Association Rules Learning algorithm to over 36000 transaction records and identified 5 key products which help to boost the sales of other products Implemented UserBased Collaborative Filtering algorithm to the transaction records Predicted 5 products which are most likely to be bought by each of the 3000 customers Identified 50 customers who are most likely to buy certain target products Skills Used Association Rules Learning UserBased Product Recommendation Collaborative Filtering Internship Android Developer RistCall LLC Pittsburgh PA May 2015 to August 2015 Responsibilities Developed the UI and function for nurses to keep track of patients daily activities data on Android watch using Android SDK Stored the data in the SQLite database and send the data to the server for record and further analysis using socket programming Held daily meeting with the product manager to ensure the project was on track for the expected completion date Skills Used Android SDK SQLite Database Project Pittsburgh Crime Data Analysis Using Hadoop MapReduce Carnegie Mellon University Pittsburgh PA April 2015 to May 2015 Responsibilities Deployed Mapper and Reducer Java files to Hadoop File System in Linux to find crime records of specific types of offense from FBI Part 1 crimes data in Pittsburgh Grouped the crime records by location and time for further analysis Skills Used Map Reduce on Hadoop File Systems Project Android Application for Movie Synopsis Retrieving Using Java Distributed Systems Carnegie Mellon University Pittsburgh PA April 2015 to May 2015 Responsibilities Developed an Android application that prompts user to enter search strings to look for synopsis from movies Deployed a JEE RESTful web service on Google App Engine to fetch requested information via openmovie API Connected the web service with Android app and returned userrequested information back to the Android app Skills Used Android SDK RESTful web service Project Python for Data Analytics Predicting IMDb Movies Ratings Using Python Carnegie Mellon University Pittsburgh PA March 2015 to May 2015 Responsibilities Developed web scraping of IMDb movies using Python and stored the dataset in Mongo DB Built Linear Regression and Decision Tree models to predict ratings based on attributes of movie Skills Used Python Linear Regression Decision Tree Project Applied Data Science Predicting Recipe Likeabilit

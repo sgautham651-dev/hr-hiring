@@ -1,0 +1,18 @@
+Ravi Kumar
+ravi.kumar@example.com | +91 90030 07788 | Chennai, India
+
+Profile
+Motivated IT student looking for a first role to gain industry experience.
+
+Education
+Diploma in Information Technology, Central Polytechnic College, Chennai (2024 - 2026)
+
+Skills
+Python (basic), HTML, CSS, Microsoft Excel, Communication, Teamwork
+
+Projects
+- Excel sheet to track monthly household expenses
+- Simple calculator program in Python
+
+Hobbies
+Cricket, music

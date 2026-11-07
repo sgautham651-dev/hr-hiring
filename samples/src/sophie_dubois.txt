@@ -1,0 +1,19 @@
+Sophie Dubois
+sophie.dubois@example.com | +33 6 00 00 45 67 | Lyon, France
+
+Profile
+Product designer who designs simple, friendly screens based on real user research.
+
+Education
+Master in Interaction Design, Lyon School of Design (2022 - 2024)
+
+Skills
+Figma, Wireframing, Prototyping, User Research, UI Design, Usability Testing, Adobe XD, Design Systems
+
+Projects
+- Redesign of a banking app: user interviews, wireframes and a clickable prototype in Figma
+- Design system with 40 reusable components for a travel booking website
+- Usability testing of a food delivery app with 12 users and a report of fixes
+
+Experience
+- Junior UI/UX designer, Atelier Numerique (6 months): wireframes and prototypes for client websites

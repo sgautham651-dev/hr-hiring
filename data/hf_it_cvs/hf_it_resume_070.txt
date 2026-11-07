@@ -1,0 +1,24 @@
+Candidate IT 070
+candidate.it070@example.com | +1 555 019 0070
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Senior Web UI Developer Senior span lWebspan UI span lDeveloperspan Senior Web UI Developer Fiserv Atlanta GA 9 years of extensive Experience as FrontEnd UI Developer in designing User Interface applications and professional web applications using HTML 45 CSS 23 JavaScript TypeScript Angular 2 Nodejs Express JS jQuery AJAX XML Bootstrap JSON JavaJ2EE Build prototype for various required services such as Scheduling Logging and Notification Service using third party Nodejs based JavaScript library Experience in managing lifecycle of MongoDB database including database sizing deployment automatio
+
+Projects
+- Senior span lWebspan UI span lDeveloperspan
+- Atlanta GA 9 years of extensive
+- FrontEnd UI Developer in designing
+
+Experience
+- Interface applications and professional web applications using HTML 45 CSS 23
+- Express JS jQuery AJAX XML Bootstrap JSON JavaJ2EE Build prototype for various required services such as
+- Experience in managing lifecycle of
+
+Additional Resume Text
+Senior Web UI Developer Senior span lWebspan UI span lDeveloperspan Senior Web UI Developer Fiserv Atlanta GA 9 years of extensive Experience as FrontEnd UI Developer in designing User Interface applications and professional web applications using HTML 45 CSS 23 JavaScript TypeScript Angular 2 Nodejs Express JS jQuery AJAX XML Bootstrap JSON JavaJ2EE Build prototype for various required services such as Scheduling Logging and Notification Service using third party Nodejs based JavaScript library Experience in managing lifecycle of MongoDB database including database sizing deployment automation monitoring and tuning Professional understanding of Software development life cycle SDLC as well as various phases such as Analysis Design Development and Testing Worked extensively on TypeScript frameworks like Angular 2 Nodejs and Reactjs Expert in creating Restful and SOAP web services Experienced in clientside design and validation using HTML and TypeScript Experience in setting up the AngularJS frameworks Used Angular2 by consuming Restful web services Experience in integrating the dynamic Webpages using Angular 2 and JQuery Experience working with Nodejs to setup Web APIs Watched changes in project with gulp task runner with installation of latest versions of ES6 which will run on Nodejs environment Excellent knowledge on Angular 2 components like controllers directives factory and service resources routing dependency injection 2way data binding filters and events Experience in utilizing Angular UIbootstrap and CSS3 Used Angular 2 controllers in various pages of the application Worked on application level code to perform clientside validation using JQuery and Angular 2 Implemented logic using AngularJS Typescript and ECMAScript 6 Experienced in building cross browser compatibility web applications like Chrome Safari Firefox Internet Explorer and Opera using HTML5 and CSS3SASSLESS Involved in several web application development projects that required Responsive Web Design Using Twitter Bootstrap Expertise with Spring Hibernate and Struts application frameworks Worked on Eclipse SublimeText Webstorm and Notepad Good Web Application debugging skills using Chrome Developers Tool Bugzilla and Firebug Good knowledge of using JavaScript testing frameworks like Jasmine Karma JUnit and QUnit Expertise in using Mixins in SASS and Loops in LESS Expertise using the Nested Loops in SASS Excellent knowledge in the development of User Experience web and mobile based applications Installing and Configuring PostgreSQL from source or packages on Linux machines Having dynamic and versatile experience for mobile application development and analyzing current market trends mainly focused on best UI experience in development Coordinating with SharePoint development team and managing services on mobile platforms with RESTFUL SOAP APIs Worked as a Team player for iPhone and web development apps using HTML5 Experienced in developing event driven applications using AJAX JSON and XML Expert in automating the build processes using ANT MAVEN and Gulp Configuration and Version control management using CVS SVN and GIT Experience in working with data visualization tools like D3JS Detailed understanding of DOM manipulations and DOM functions Designed the web layouts using Adobe Photoshop Well versed W3C standards along with experience in Web 20 and related sources Incorporated the table less design methodology using CSS3 that follows W3C standards Worked in GitHub stash rep

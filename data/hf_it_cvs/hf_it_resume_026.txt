@@ -1,0 +1,24 @@
+Candidate IT 026
+candidate.it026@example.com | +1 555 019 0026
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Application Developer 3 Application span lDeveloperspan 3 SQL Developer BI Developer Data Analyst Weston FL Authorized to work in the US for any employer Work Experience Application Developer 3 Comcast Sunrise FL November 2018 to April 2019 Executed and monitored time sensitive large scale Macros coordinating with different teams and leaderships Rewrote and optimized the extract query for KPI report automation Designed and Built ETLSSIS processes moving and transforming data with Bulk InsertFile TransferXMLvarious DBs Application Developer 2 Comcast Sunrise FL January 2007 to October 2018 12 y
+
+Projects
+- Application span lDeveloperspan 3 SQL Developer BI Developer
+- Weston FL Authorized to work in the US for any employer
+- Sunrise FL November 2018 to
+
+Experience
+- Executed and monitored time sensitive large scale
+- Macros coordinating with different teams and leaderships
+- Rewrote and optimized the extract query for KPI report automation
+
+Additional Resume Text
+Application Developer 3 Application span lDeveloperspan 3 SQL Developer BI Developer Data Analyst Weston FL Authorized to work in the US for any employer Work Experience Application Developer 3 Comcast Sunrise FL November 2018 to April 2019 Executed and monitored time sensitive large scale Macros coordinating with different teams and leaderships Rewrote and optimized the extract query for KPI report automation Designed and Built ETLSSIS processes moving and transforming data with Bulk InsertFile TransferXMLvarious DBs Application Developer 2 Comcast Sunrise FL January 2007 to October 2018 12 year experience as a SQL Developer working with large performanceintensive databases using SQL Server 200520082012 writing PL SQLTSQL procedures with minimal guidance Designed developed and implemented dailyweeklymonthly ETLs from various source systems Built highlevel subscriber reports metrics audit reports adhoc reports and dashboard using SSRS Mainly working with leadership from Finance for subscriber reports and audit reports but also working with various departments like Marketing TechOps Engineering Sales etc to meet business and technical requirements and independently develop the solution Query tuning strong data analysis skills SEO Web Developer How2 Group International Miami FL November 2003 to January 2007 Designed and Developed wwwhow2vacationcom Macromedia Dreamweaver MX ASPNET MS SQL and other commercial sites Designed database MS SQL stored procedure Database maintenance and regular backup Set up live stats for all sites Set up affiliate programs SEO Search Engine Optimization Set up and configured colo dedicated web server dedicated database server firewalls inhouse developer web server and developer database server Windows 2000 Advanced Server 2003 Server IIS MS SQL Server Account Specialist Samsung Miami FL January 1999 to January 2000 Internship in ARAPAudit team Education Master of Science in Computer Information Systems University of Miami Coral Gables FL 2000 Master of Science in Hotel Management Iowa State University Ames IA 1999 Bachelor of Science in Accounting The Catholic University of Korea Seoul KR 1997 Skills TSQL 10 years SSRS 10 years SSIS 10 years PLSQL

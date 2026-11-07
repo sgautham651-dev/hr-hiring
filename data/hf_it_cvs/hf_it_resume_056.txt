@@ -1,0 +1,24 @@
+Candidate IT 056
+candidate.it056@example.com | +1 555 019 0056
+
+Profile
+Database Administrator Job
+
+Education
+- Bachelors Degree in Computer Science in Computer Science
+
+Technical Skills
+Sr Python Application Developer Sr span lPythonspan Application span lDeveloperspan Sr Python Application Developer International Medical Corps Los Angeles CA Sr Python Developer Authorized to work in the US for any employer Work Experience Sr Python Application Developer International Medical Corps Los Angeles CA August 2018 to Present Roles Responsibilities Effectively worked on Web Development Web Services Python and the Django framework Worked on modern JavaScript frontend frameworks like vuejs React Implemented Microservice via Scala Play Framework and provide RESTful APIs for other servi
+
+Projects
+- Application span lDeveloperspan
+- Authorized to work in the US for any employer
+- JavaScript frontend frameworks like vuejs
+
+Experience
+- Framework and provide RESTful APIs for other services in the pipeline to consume it
+- Involved in web application development for backend system using
+- Nodejs with cutting edge HTML5 and CSS techniques
+
+Additional Resume Text
+Sr Python Application Developer Sr span lPythonspan Application span lDeveloperspan Sr Python Application Developer International Medical Corps Los Angeles CA Sr Python Developer Authorized to work in the US for any employer Work Experience Sr Python Application Developer International Medical Corps Los Angeles CA August 2018 to Present Roles Responsibilities Effectively worked on Web Development Web Services Python and the Django framework Worked on modern JavaScript frontend frameworks like vuejs React Implemented Microservice via Scala Play Framework and provide RESTful APIs for other services in the pipeline to consume it Involved in web application development for backend system using AngularJS and Nodejs with cutting edge HTML5 and CSS techniques Worked on VueJS for building apps and declarative templates with databinding created some custom directives in the application Developed frontend and backend modules using Python on Django Framework using Git Developed a Progressive Web App which more suited for mobile devices Designed UX interface and UI components using HTML and CSS Designed back schema and database JSON structures Wrote a Python module to connect and view the status of an Apache Cassandra instance Developed MVC prototype replacement of the current product with Django Developed dashboard using JavaScript library Worked on JSON based REST Web services and Amazon Web services AWS and Responsible for setting up Python REST API framework and spring framework using DJANGO Implemented Backbone JS for the creation of networking applications using JavaScript Used Test driven approach TDD for developing services required for the application and Implemented Integration test cases and developed predictive analytic using Apache Spark Scala APIs Integrated GIT into Jenkins to automate the code checkout process Environment Python 37 SQL Django HTML5 CSS3 DOM Angularjs Vuejs Shell Scripting JSON REST Linux MySQL and python libraries such as FlaskDjango Sr Python Developer Hertz Estero FL July 2016 to August 2018 Roles Responsibilities Involved in building database Model APIs and Views utilizing Python to build an interactive webbased solution Responsible for gathering requirements system analysis design development testing and deployment Worked on UI using HTML5 CSS3 and Java Scripts Worked on Azure SQL Database Import and Export Service Created User Controls and simple animations using JavaScript and Python Used Pandas library for Statistical Analysis Performed quality control checks of GIS data and nonspatial databases to ensure data integrity Used Django Database APIs to access database objects Designed and implemented the ModelViewView Model pattern for many components in the project Contracts Products Search Sales Employees BackOffice Admin Developed tools using Python Shell scripting XML to automate some of the menial tasks Interface with supervisors artists systems administrators and production to ensure production deadlines are met Explored Spark to improve the performance and optimization of the existing algorithms in Hadoop using Spark Context SparkSQL Data Frame Pair RDDs Spark YARN Responsible for Plugin Management User Management and BackupDisaster Recovery PlanImplementation BDR on Jenkins Performed automation of testing using Quick Test Pro and programmed dynamic VB Scripts in Expert view for testing GUI Functionality Automated continuous integration delivery workflows to deploy Micro services applications via Docker co

@@ -1,0 +1,24 @@
+Candidate IT 068
+candidate.it068@example.com | +1 555 019 0068
+
+Profile
+Database Administrator Job
+
+Education
+- Bachelors in Computer Science in Computer Science
+
+Technical Skills
+Full Stack Java Developer Full Stack span lJavaspan span lDeveloperspan Full Stack Java Developer Intercontinental Hotel Group Atlanta GA Over 7 years of progressive experience in Software Development Life Cycle SDLC which includes User Interaction Business AnalysisModeling DesignArchitecture Development Implementation Integration Documentation Testing and Deployment using javaJ2EE technologies Extensive experience in building enterprise Applications and Distributed Systems using technologies such as Core Java J2EE Servlets JSP JSF EJB Hibernate spring JDBC JMS AWS and XML Extensive knowledge 
+
+Projects
+- Stack span lJavaspan span lDeveloperspan
+- Atlanta GA Over 7 years of progressive experience in
+- Deployment using javaJ2EE technologies
+
+Experience
+- Extensive experience in building enterprise
+- Systems using technologies such as
+- Java J2EE Servlets JSP JSF EJB Hibernate spring JDBC JMS AWS and XML Extensive knowledge of MVC architecture and J2EE Design
+
+Additional Resume Text
+Full Stack Java Developer Full Stack span lJavaspan span lDeveloperspan Full Stack Java Developer Intercontinental Hotel Group Atlanta GA Over 7 years of progressive experience in Software Development Life Cycle SDLC which includes User Interaction Business AnalysisModeling DesignArchitecture Development Implementation Integration Documentation Testing and Deployment using javaJ2EE technologies Extensive experience in building enterprise Applications and Distributed Systems using technologies such as Core Java J2EE Servlets JSP JSF EJB Hibernate spring JDBC JMS AWS and XML Extensive knowledge of MVC architecture and J2EE Design Patterns like Singleton Session Facade DAO and Business Delegate in the development of web based and distributed Enterprise Applications Solid experience in application development as a JavaJ2EE developer using Tomcat Expertise in client scripting language and server side scripting languages like GWT JavaScript jQuery JSON Angular 7 JSF and JSP Experience in designing Rich Internet Applications RIAs with jQuery Experienced in implementing Service Oriented Architecture SOA with XML based Web Services SOAPWSDL using Top down Approach and Bottom up Approach Developed ANT scripts and used Maven tool to build and deploy J2EE Applications using Puppet Used Middleware technologies like JMS Gemfire caching Worked on Log4j configuration and setup and Implementation part and Cruise control for Integration Used Log4j along with Kibana for logging errordebug messages and managing them Good working knowledge on GIT for Software configuration management SCM and version control Experience in programming deploying configuring and administering Application Servers like BEA Web Logic 90100 JBoss and Web Servers like Apache Tomcat 7060 Expertise in Agile Software Development Methodology including Scrum technology Experience in designing developing and implementing B2B applications using J2EE technologies in Telecom Hospitality Retail domains Expertise in ntier Architecture object oriented Enterprise Java web applications using J2EE technologiesframeworks which includes JSP Servlets Entity Beans Session Beans MDB Transactions Security JMS JSF Spring Hibernate JDBC IBM MQ JavaScript SOAPRest Web services Designed and developed reports using Jasper Reports and provided integration points for services written in Java Knowledge in Elastic search and Lucene APIs helped in implementing few POCs Experience of Database design in OracleSQL Server query based programming and PLSQL procedure programming and proficient in Database programming using JDBC and SQL Experience in writing database objects like Stored Procedures Functions for Oracle SQL Server Worked on writing test cases using JUnit and Mockito and configured them through Maven sure fire plugins to be part of continuous integration Versatile team player with good communication analytical presentation and interpersonal skills Work Experience Full Stack Java Developer Intercontinental Hotel Group Atlanta GA January 2016 to Present Responsibilities Worked closely with the BusinessUsers team in translating technical requirements into application code Worked on IRIS IVR Reservation tool successfully developed Web Services SOAP and REST using Spring REST and Jersey frameworks As part of this project consumes data from multiple services Actively involved in migrating our application from SOAP to REST services writing JUnit test cases Bug fixing and trouble shooting I have developed on Conti

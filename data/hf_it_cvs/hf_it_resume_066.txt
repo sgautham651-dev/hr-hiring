@@ -1,0 +1,24 @@
+Candidate IT 066
+candidate.it066@example.com | +1 555 019 0066
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Assured Compliance Assessment Solution Administrator Assured Compliance Assessment Solution span lAdministratorspan Assured Compliance Assessment Solution Administrator NexGen Data Systems Inc US Navy Spawar Atlantic Slidell LA Authorized to work in the US for any employer Work Experience Assured Compliance Assessment Solution Administrator NexGen Data Systems Inc US Navy Spawar Atlantic New Orleans LA October 2018 to Present Performing vulnerability scans within ACAS Assured Compliance Assessment Solution Security Center Monitoring 200 scans on a weekly basis to ensure a 100 success rate Uplo
+
+Projects
+- Solution span lAdministratorspan
+- Slidell LA Authorized to work in the US for any employer
+- Orleans LA October 2018 to
+
+Experience
+- Performing vulnerability scans within ACAS Assured
+- Monitoring 200 scans on a weekly basis to ensure a 100 success rate
+- Uploading scan results to VRAM on a
+
+Additional Resume Text
+Assured Compliance Assessment Solution Administrator Assured Compliance Assessment Solution span lAdministratorspan Assured Compliance Assessment Solution Administrator NexGen Data Systems Inc US Navy Spawar Atlantic Slidell LA Authorized to work in the US for any employer Work Experience Assured Compliance Assessment Solution Administrator NexGen Data Systems Inc US Navy Spawar Atlantic New Orleans LA October 2018 to Present Performing vulnerability scans within ACAS Assured Compliance Assessment Solution Security Center Monitoring 200 scans on a weekly basis to ensure a 100 success rate Uploading scan results to VRAM on a BiWeekly basis for Production and Test environments Reviewing vulnerabilities for systems within the Cyber Security AOR and reporting compliancy Configuring for publishing scan results to CMRS Continuous Monitoring and Risk Scoring Performed upgrades to Nessus scanners on Windows and Red Hat Enterprise Linux systems Perform STIGs Security Technical Implementation Guides on Windows servers within the Cyber Security AOR Required to keep an 85 secure rating on STIGs in both Low and High side environments Lead Authorized DTA Data Transfer Authority responsible for transferring files from and to different environments Perform a weekly audit of the Radiant Mercury Cross Domain Solution System CDS to determine any suspicious activity Provide a weekly confirmation of Information Assurance Vulnerability Alerts IAVMIAVA compliancy Create maintain and update Standard Operating Procedures SOP for DTA and ACAS Train newly designated team members on DTA and ACAS roles Network Security Analyst Enterprise Information Services Inc US Navy Spawar Atlantic New Orleans LA October 2016 to October 2018 Responsibilities included currently performed Monitored HBSS Host Based Security System virus databases on systems Required to maintain a less than 7day variation Monitored RSD Rogue System Detection for any systems that did not have the HBSS Software Suite installed Submitted tickets to respective admins to install missing packages Managed WSUS Windows Server Update ServerServices including being the sole Point of Contact related to WSUS errors installed all patches and performed all STIGs in association with WSUS Performed daily reports on DAT virus database file compliancy for HBSS WSUS Synchronization Status SPLUNK reported Failed logins Unintended System Shutdowns Number of SSH Connections made Number of Hosts reporting Performed IP Management and delegation of available IPs to servers based on information provided in a request from ITSM Ticketing System Computer Systems Analyst Enterprise Information Services Inc US Navy Spawar Atlantic New Orleans LA April 2016 to October 2016 Maintained 247 support for Windows systems in Classified and Unclassified environments through an oncall schedule Performed patching within designated maintenance windows for Operating System and 3rd party software upgrades Properly reported what patches or upgrades had been installed and when through an Excel spreadsheet Tested and ensured proper installation and functionality after patch implementation Troubleshot production and test outages and informed the Data Operations Center on who to contact for further assistance Completed tickets through Remedy Ticket System for requests ranging from Administrator Access to System Restarts Maintained restrictive access by removing users who no longer needed admin access Created installation and configuration SOP for 

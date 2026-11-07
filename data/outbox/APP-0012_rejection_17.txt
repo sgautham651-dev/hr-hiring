@@ -1,0 +1,12 @@
+To: Omar Haddad <omar.haddad@example.com>
+Subject: Update on Your Application
+Released: 2026-11-07T13:06:52
+
+Dear Omar,
+
+Thank you for attending the interview for the Sales role (APP-0012).
+
+We regret to inform you that we are unable to offer you a position at this time. We appreciate you taking the time to speak with us and wish you the best in your job search.
+
+Kind regards,
+Hiring Team

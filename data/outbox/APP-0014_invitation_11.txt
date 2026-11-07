@@ -1,0 +1,14 @@
+To: Rahul Nair <rahul.nair@example.com>
+Subject: Interview Invitation - MLOps
+Released: 2026-11-07T13:07:13
+
+Dear Rahul,
+
+We are pleased to invite you to an interview for the MLOps area. 
+
+This interview is scheduled for Tuesday 10 November 2026 at 11:45.
+
+Please reply to confirm your attendance.
+
+Kind regards,
+Hiring Team

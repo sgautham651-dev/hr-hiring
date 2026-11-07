@@ -1,0 +1,19 @@
+Priya Sharma
+priya.sharma@example.com | +91 98100 02233 | New Delhi, India
+
+Profile
+Statistics graduate who turns raw business data into clear reports and dashboards.
+
+Education
+BSc (Hons) in Statistics, University of Delhi (2021 - 2024)
+
+Skills
+SQL, Excel, Power BI, Data Visualization, Statistics, Python, DAX
+
+Projects
+- Sales dashboard in Power BI showing monthly revenue, top products and regional trends
+- SQL analysis of 50,000 customer orders to find repeat-purchase patterns
+- Excel report automating the weekly KPI summary for a small retail store
+
+Experience
+- Data analyst (part time), BrightCart Retail (8 months): built weekly sales reports and dashboards

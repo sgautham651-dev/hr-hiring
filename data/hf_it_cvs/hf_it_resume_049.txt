@@ -1,0 +1,24 @@
+Candidate IT 049
+candidate.it049@example.com | +1 555 019 0049
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Front End Architect and ADAQA Tester span lFrontspan span lEndspan Architect and ADAQA Tester Front End Architect and ADAQA Tester US Tech Solutions Alexandria VA Work Experience Front End Architect and ADAQA Tester US Tech Solutions February 2019 to Present Senior front end accessibility architect and tester supporting Kaiser Permanente kporg Work with Scrum development and Product Quality Testing teams to find critical and high priority accessibility defects across browsers and mobile applications Approve pull requests for accessibility feature integration and UI element updates Review React
+
+Projects
+- Architect and ADAQA Tester span lFrontspan span lEndspan
+- Architect and ADAQA Tester
+- Architect and ADAQA Tester US Tech
+
+Experience
+- Architect and ADAQA Tester US Tech
+- Senior front end accessibility architect and tester supporting
+- Testing teams to find critical and high priority accessibility defects across browsers and mobile applications
+
+Additional Resume Text
+Front End Architect and ADAQA Tester span lFrontspan span lEndspan Architect and ADAQA Tester Front End Architect and ADAQA Tester US Tech Solutions Alexandria VA Work Experience Front End Architect and ADAQA Tester US Tech Solutions February 2019 to Present Senior front end accessibility architect and tester supporting Kaiser Permanente kporg Work with Scrum development and Product Quality Testing teams to find critical and high priority accessibility defects across browsers and mobile applications Approve pull requests for accessibility feature integration and UI element updates Review React and Angular 6 libraries for opportunities to enhance reusable components for accessibility Report and track accessibility defects for the Scrum team using JIRA and Quality Center Conduct functional accessibility testing of native mobile apps using VoiceOver and TalkBack Provide handcoded HTML5 JavaScript and CSS solutions to developers as part of the overall strategy to reduce critical and high end WCAG 20 AA defects Front End Engineer and ADAQA Analyst Zillion Vienna VA September 2018 to February 2019 Lead Quality Assurance and Accessibility Engineer working to ensure Navy Federal Credit Unions compliance with Americans with Disabilities Act and Section 508 standards Coordinated with marketing product and information technology delivery teams to create style guides and procedures for integration in the redesign of NFCUorg Provided hands on HTML React and Javascript coding support to patch bugs and address customer requests for feature enhancements Collaborated with business analysts and designers to ensure that ADA requirements were incorporated in user stories Reviewed and approved UX designs wireframes and mockups from an ADA perspective Defined scenarios for crossbrowser testing and mobile testing on iOS and Android devices Tested campaign videos to ensure that they adhere to Communications and Video Accessibility Act regulations Provided WCAG 21 testing status via Jira reports and agile scrum methodologies Sr Software and Web Developer TechFlow Sterling VA May 2018 to September 2018 Developed and implemented full stack solutions in accordance with department policies and procedures Created application prototypes and unit tests using Visual Studio Responsible for developing and maintaining applications with technologies such as Java 18 NET C SQL Server HTML5 Mocha REST APIs and MEAN stack MongoDB Expressjs Angular 6 Bootstrap and Nodejs Set up and configured cloud services using AWS EC2 Services including AppSync and StepFunction Managed DevOps and continuous integration activities using Jenkins and SonarQube Advised the department on policies regarding Section 508 and WCAG 20 compliance Prepared and delegated scrum tasks to guide the work of junior developers Collaborated with QA team to define test cases and plan solutions for defects Accessibility Architect Signature Consulting Weston FL February 2018 to May 2018 Senior accessibility and content strategist for Ultimate Software legacy web and native apps Ultimatesoftwarecom Reviewed marketing copy and visual designs for usability concerns before going live Conducted research to identify gaps in the UX design process Lead AB testing efforts to test new implementations of NET Angular 4 and Ionic mobile web components Analyzed metrics from Google Analytics to determine user trends and made recommendations to improve site traffic and user retention Collaborated with developers to create standar

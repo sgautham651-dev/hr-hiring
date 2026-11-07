@@ -1,0 +1,24 @@
+Candidate IT 039
+candidate.it039@example.com | +1 555 019 0039
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+ERP Security Analyst ERP span lSecurityspan span lAnalystspan ERP Security Analyst User Access Management Dallas TX Work Experience ERP Security Analyst User Access Management San Jose CA February 2014 to Present The UAM team focuses on the design and implementation of user access security models for Oracle R12 Enterprise Business Suite EBS and Oracle Transportation Management OTM environments to meet Ciscos Segregation of Duties SoD and Security Policy Compliance Objectives Define entitlements business policies and assign user roles Check for SOD conflicts across user roles and responsibiliti
+
+Projects
+- Analyst ERP span lSecurityspan span lAnalystspan ERP Security
+- The UAM team focuses on the design and implementation of user access security models for
+- Management OTM environments to meet
+
+Experience
+- Define entitlements business policies and assign user roles
+- Check for SOD conflicts across user roles and responsibilities
+- Work with business process owners to customize their desired responsibilities in
+
+Additional Resume Text
+ERP Security Analyst ERP span lSecurityspan span lAnalystspan ERP Security Analyst User Access Management Dallas TX Work Experience ERP Security Analyst User Access Management San Jose CA February 2014 to Present The UAM team focuses on the design and implementation of user access security models for Oracle R12 Enterprise Business Suite EBS and Oracle Transportation Management OTM environments to meet Ciscos Segregation of Duties SoD and Security Policy Compliance Objectives Define entitlements business policies and assign user roles Check for SOD conflicts across user roles and responsibilities Work with business process owners to customize their desired responsibilities in Oracle Perform remediation activities to address Sarbanes Oxley SOX deficiencies Assist in design and testing of Oracle Applications along with testing of automated controls based on knowledge of financial processes Develop and confirm program operations by conducting manual tests modify program sequence and code to fix defects Support multiple testing cycles and golives for both Supply Chain Management and Finance modules Web Developer Cox School of Business September 2012 to February 2014 Cox school has an elaborate website httpsmucoxedu with information on faculty programs admissions alumni events and more Our team is responsible for complete design making updates and managing daytoday operations of the site Technologies used are JSP HTMLCSS My SQL Redesigned the UserInterface UI layout and added content blocks on faculty pages with each faculty page now showing separate tabs for profile documents publications and research Currently adding video lectures to each individual facultys pages Web developer Maha Shiv Shakti Foundation MSSF Birmingham July 2011 to August 2012 MSSF is a nonprofit foundation based in UK that approached me to build their website Designed and programmed the website from scratch including obtaining the URL from domain agents and configuring it Created a Content Management System CMS using JSP PHP HTMLCSS so MSSF staff can easily make content updates and maintain the site Currently working on improving the initial design and layout to make the site be more dynamic and to allow visitor registrations IT Instructor Radix Info Hyderabad Andhra Pradesh June 2010 to September 2010 Radix Info is a 10year old IT company providing application development and training services I was hired to train freshman college students and recent graduates in core IT skills Taught programming in C covering topics such as pointers file management csockets Also taught Java including topics in polymorphism classes Java in networks JSP Education B Tech in Computer Science and Engineering Auroras Engineering College Hyderabad Andhra Pradesh July 2012 M S in Computer Science Southern Methodist University Dallas TX Additional Information CURRICULUM PROJETCS Account Tracker This Android application allows user to keep track of different bank accounts held by a user and the transactions in those accounts Created an android application using EclipseADT to manage multiple bank account transactions using a single application Studied and implemented different storage mechanisms and some advanced packages like text to speech map view in android system Wireless Sensor Networks A wireless sensor network WSN is a collection of nodes organized into a cooperative network The nodes communicate wirelessly and they could be distributed in random way so we can see the nodes as vertices a

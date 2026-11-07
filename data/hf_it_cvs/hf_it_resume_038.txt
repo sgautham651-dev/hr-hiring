@@ -1,0 +1,24 @@
+Candidate IT 038
+candidate.it038@example.com | +1 555 019 0038
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+SFDC Admin Developer SFDC Adminspan lDeveloperspan SFDC Admin Developer Anthem Over 4 years of IT experience in application design customization development support on SalesForcecom Platform Certified salesforce Administrator and developer Platform Developer I Experience in realizing the business requirements to design on salesforcecom platform by designing the required entities like custom objects creating the relationships junction objects like MasterChild lookups Entity Relationship data model Pages Classes Interfaces Workflows Workflow rules Process Builder Lightning App Builder triggers E
+
+Projects
+- Developer SFDC Adminspan lDeveloperspan SFDC Admin
+- Over 4 years of IT experience in application design customization development support on
+- Administrator and developer
+
+Experience
+- Developer I Experience in realizing the business requirements to design on salesforcecom platform by designing the required entities like custom objects creating the relationships junction objects like
+- Email alerts and business logic
+- Experience in working with
+
+Additional Resume Text
+SFDC Admin Developer SFDC Adminspan lDeveloperspan SFDC Admin Developer Anthem Over 4 years of IT experience in application design customization development support on SalesForcecom Platform Certified salesforce Administrator and developer Platform Developer I Experience in realizing the business requirements to design on salesforcecom platform by designing the required entities like custom objects creating the relationships junction objects like MasterChild lookups Entity Relationship data model Pages Classes Interfaces Workflows Workflow rules Process Builder Lightning App Builder triggers Email alerts and business logic Experience in developing Lightning Components Apex Classes Triggers writing Workflows CSS HTML and JavaScript Proficient in Data Migration from Traditional Applications to Sales Force using Data Loader Utility and Informatica On Demand Experience in working with Salesforcecom sandbox and production environments Expertise in analyzing and documenting the workflows and functionality of existing systems preparing presentation materials to all levels of management Implementation Integration experience on SalesForcecom using Apex Language Classes Controllers Triggers Visual Force Pages Custom Tabs Custom Objects SControls Reports Analytic Snapshots and Dashboards Excellent analytical debugging skills and documentation skills Team player with good interpersonal skills strong understanding of fundamental business processes excellent Communication and problemsolving skills Written Apex Test classes to Unit Test Apex classes before moving to Production Created and maintained the documentation for Design Migration and Integration Capable of rapidly learning new technologies and processes and successfully applying them to projects and operations Worked as onsite and offshore support for the clients Good Experience in developing Apex Classes Triggers writing Workflows and HTML CSS3 and JavaScript and JQuery Worked with SOQL SOSL queries with Governor Limitations to store and download the data from Salesforcecom platform database Expertise in analyzing and documenting the workflows and functionality of existing systems preparing presentation materials to all levels of management Implementation Integration experience on SalesForcecom using Apex Language Classes Controllers Triggers Visual Force Pages Custom Tabs Custom Objects SControls Reports Analytic Snapshots and Dashboards Worked extensively on lightening components which can be reused throughout lightening pages and other components as well Work on customization of standard objects like Lead Account Contact and Opportunity Perform day to day User Management on SFDC Org by configuring Sharing Rules Permission Sets Roles and Profiles Extensive knowledge and good working experience with the Lightning Process Builder Lightning Work Experience SFDC Admin Developer Anthem Virginia Beach VA November 2018 to Present Responsibilities Involved in administering configuring maintaining Salesforcecom application user profiles roles Permissions generating security tokens validation Rule upgrade installation Closely worked with clients while implementing the solutions for the needs of organization Developed various Custom Objects Tabs Lightning Components and VisualForce Pages and Controllers Customized the Dashboards to the track usage for productivity and performance of business centers and their sales teams Working on a continuous agile environment Customized objects page layouts record 

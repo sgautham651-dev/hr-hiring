@@ -1,0 +1,10 @@
+To: Laura Bennett <laura.bennett@example.com>
+Subject: Update on Your Application - APP-0008
+Released: 2026-11-07T13:07:05
+
+Dear Laura,
+
+Thank you for attending your interview. We are currently reviewing all applications and the result of your interview is on hold. We will contact you as soon as a decision has been made.
+
+Kind regards,
+Hiring Team

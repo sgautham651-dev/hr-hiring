@@ -1,0 +1,24 @@
+Candidate IT 088
+candidate.it088@example.com | +1 555 019 0088
+
+Profile
+Database Administrator Job
+
+Education
+- Master of Computer Science in Computer Science
+
+Technical Skills
+Software Java Developer span lSoftwarespan Java span lDeveloperspan Software Java Developer Core Ebusiness Solutions Harrison NJ Experienced Computer Science graduate with 15 years of experience as a Software Java developer Good knowledge of Data Structure Algorithm Objectoriented programming and advanced SQL queries Possess strong Analytical mindset Time management Communication skills Sponsorship required to work in the US Work Experience Software Java Developer Core Ebusiness Solutions Fairfield NJ October 2018 to Present Development of the Billing feature in existing Core Java application 
+
+Projects
+- Developer span lSoftwarespan
+- Science graduate with 15 years of experience as a
+- Objectoriented programming and advanced SQL queries
+
+Experience
+- Sponsorship required to work in the US Work
+- Fairfield NJ October 2018 to
+- Billing feature in existing
+
+Additional Resume Text
+Software Java Developer span lSoftwarespan Java span lDeveloperspan Software Java Developer Core Ebusiness Solutions Harrison NJ Experienced Computer Science graduate with 15 years of experience as a Software Java developer Good knowledge of Data Structure Algorithm Objectoriented programming and advanced SQL queries Possess strong Analytical mindset Time management Communication skills Sponsorship required to work in the US Work Experience Software Java Developer Core Ebusiness Solutions Fairfield NJ October 2018 to Present Development of the Billing feature in existing Core Java application for Warehousing operations Implementation of Automatic Manual Charge generation Invoice creation and Value Added services functionalities for the client Collected analysed documented Billing schema and developed SQL server queries Solving customer tickets related to billing system using database queries Working on the Pickplan project to dynamically select orders and process them as a plan in Core Java application Environment JAVA Oracle DB Eclipse Liferay Bitbucket Confluence JIRA Software Developer Pullup Technologies Inc Newark NJ February 2018 to September 2018 Software Developer Android Application Development of Android application pullup an Uber for parking Using RESTful services sent HTTP requests to the Server retrieved the JSON format data and parsed it Developed UI to display distance ETA using Google API Developed Payment integration using Stripe API Rating System Support for the app Implemented Clientside validation for the app Environment JAVA XML Android SDK Android Studio GitHub Gitbash JIRA JUnit COURSEWORK Capstone Project Android App Development Data Structures Algorithm Database Management System Advanced Database Management System Java Programming Software Project Management APRIORI Algorithm Implementation JAVA August 2017 to December 2017 Implemented the APRIORI Algorithm for the transactions item sets Utilized Static and Dynamic Data Structures to calculate Support and confidence required for algorithm implementation Admin and User Online Membership System January 2017 to May 2017 Java SQL JDBC Swing Jan 2017May 2017 Developed a JAVA application for online membership system using Swings API which allows two levels of access Admin and User Implemented Server Client interface using socket programming developed backend using RDBMS established connectivity using JDBC and executed it on AFS Kaggle CompetitionTwo Sigma Connect January 2017 to May 2017 Developed a model to predict the popularity of apartment on Rental listings using R from a given dataset Performed analysis on interest levels of training dataset to find probability of each house by regression using various packages in R and the predictions of this model were stored in the form of an excel file Education Master of Computer Science in Computer Science New Jersey Institute of Technology Newark NJ May 2018 Bachelor of Engineering in Computer Science in Computer Science University of Mumbai Mumbai Maharashtra June 2015 Skills Eclipse Java Spring jquery Microsoft sql server Sql server Mysql Oracle Plsql Sql Visual studio Android studio C Django Frontend Html Javascript Bootstrap Typescript Json Android CSS Git Additional Information SKILLS Language Java PLSQL R SQL C C Python JSON Frontend Technologies JavaScript XML HTML CSS Swing Bootstrap JQuery TypeScript Frameworks Android SDK Spring MVC Django Angular5 REST JUnit Operating System Microsoft Windows Linux Mac OS Data

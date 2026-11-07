@@ -1,0 +1,24 @@
+Candidate IT 037
+candidate.it037@example.com | +1 555 019 0037
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Systems Administrator Systems Administrator Systems Administrator Premier Networx Grovetown GA Work Experience Systems Administrator Premier Networx Evans GA September 2018 to Present Provided Windows and Linux support for 200 PhysicalVirtual servers o Consistently maintained 98 uptime by monitoring alerts performing routine server audits and implementing system redundancy and highavailability Designed and Implemented knowledge base framework to house 50000 Configuration items Architected new system rollouts for clients Firewalls Switches Servers Managed multiple concurrent projects with a sma
+
+Projects
+- Evans GA September 2018 to
+- Consistently maintained 98 uptime by monitoring alerts performing routine server audits and implementing system redundancy and highavailability
+- Implemented knowledge base framework to house 50000
+
+Experience
+- Architected new system rollouts for clients
+- Managed multiple concurrent projects with a small team of engineers IT Support US CareNet
+- Hired as a fulltime systems administrator to manage and maintain a 60 mixed server environment
+
+Additional Resume Text
+Systems Administrator Systems Administrator Systems Administrator Premier Networx Grovetown GA Work Experience Systems Administrator Premier Networx Evans GA September 2018 to Present Provided Windows and Linux support for 200 PhysicalVirtual servers o Consistently maintained 98 uptime by monitoring alerts performing routine server audits and implementing system redundancy and highavailability Designed and Implemented knowledge base framework to house 50000 Configuration items Architected new system rollouts for clients Firewalls Switches Servers Managed multiple concurrent projects with a small team of engineers IT Support US CareNet Augusta GA April 2018 to September 2018 Hired as a fulltime systems administrator to manage and maintain a 60 mixed server environment WindowsUnixLinux Implemented new vendor technology and audited excess softwarehardware maintenance costs to save the company 50000 Annually Designed and implemented a Hybrid Cloud environment to push Uptime over 99 for Production systems Cyber Security Analyst EDTS Augusta GA February 2016 to April 2018 Monitored custom security tool developed in house for Alarms and Anomalies Investigated security incidents and developed presentation for client Audited equipment and systems to ensure upto date patches and best practices Service Engineer II Worked Tier2 issues performing advanced Windows Server Client support Member of incident response for critical outages and major project implementation Trained Jr Techs on policies and advanced concepts improving helpdesk efficiency Service Engineer I Provided Tier1 Windows administration for clients Worked with a team of 6 techs to close nearly 100 tickets daily Developed ticket workflow for streamlining escalations and improving first call resolutions Education BS in Cloud and Systems Administration Western Governors University Salt Lake City UT 2019 Skills System Administrator Linux System Admin Linux Administrator Active Directory Vmware

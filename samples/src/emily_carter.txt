@@ -1,0 +1,22 @@
+Emily Carter
+emily.carter@example.com | +44 7700 900334 | Manchester, UK
+
+Summary
+Software engineering undergraduate interested in automation, cloud and reliable deployments.
+
+Education
+BSc (Hons) in Software Engineering, University of Manchester (2022 - 2026)
+
+Skills
+Linux, Bash, Docker, Git, CI/CD with GitHub Actions, Jenkins, AWS Cloud, Nginx, Python
+
+Projects
+- CI/CD pipeline for a university web app: GitHub Actions builds Docker images and deploys to an AWS server
+- Home lab: Linux server with Docker containers, Nginx reverse proxy and monitoring with Grafana
+- Bash scripts to automate daily backups of a MySQL database
+
+Experience
+- IT support assistant, Northline Logistics (3 months): maintained Linux servers and user accounts
+
+Certifications
+AWS Cloud Practitioner

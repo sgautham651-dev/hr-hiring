@@ -1,0 +1,14 @@
+To: Sophie Dubois <sophie.dubois@example.com>
+Subject: Welcome to UI/UX Design!
+Released: 2026-11-07T13:07:02
+
+Dear Sophie,
+
+Congratulations on your selection for the UI/UX Design area! We are thrilled to welcome you to the team.
+
+Your work ID is 1002. Please use this ID in all communications.
+
+The team will contact you shortly with the onboarding details.
+
+Kind regards,
+Hiring Team

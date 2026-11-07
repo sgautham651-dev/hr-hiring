@@ -1,0 +1,24 @@
+Candidate IT 064
+candidate.it064@example.com | +1 555 019 0064
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+FullStack Developer FullStack span lDeveloperspan FullStack Developer University of Michigan Austin TX Work Experience FullStack Developer University of Michigan March 2019 to Present Utilitized Ember and Python with Django Led discussions with thirdparty companies for development of designs Begun work with DialogFlow in order to create a chatbot to be integrated with the platform Conducted surveys with users with AB testing to increase average scores of platform from 34 when joining the team to 8 Senior FrontEnd Developer Proof August 2018 to February 2019 Developed frontend for antifake news
+
+Projects
+- FullStack span lDeveloperspan
+- Led discussions with thirdparty companies for development of designs
+- DialogFlow in order to create a chatbot to be integrated with the platform
+
+Experience
+- Conducted surveys with users with AB testing to increase average scores of platform from 34 when joining the team to 8
+- Developed frontend for antifake news platform from scratch with
+- Built mock interactions to be showcased for investors and aided in demonstrations
+
+Additional Resume Text
+FullStack Developer FullStack span lDeveloperspan FullStack Developer University of Michigan Austin TX Work Experience FullStack Developer University of Michigan March 2019 to Present Utilitized Ember and Python with Django Led discussions with thirdparty companies for development of designs Begun work with DialogFlow in order to create a chatbot to be integrated with the platform Conducted surveys with users with AB testing to increase average scores of platform from 34 when joining the team to 8 Senior FrontEnd Developer Proof August 2018 to February 2019 Developed frontend for antifake news platform from scratch with ReactRedux and Jest Built mock interactions to be showcased for investors and aided in demonstrations Launched platform to an initial audience of 500 users and interacted directly with users to ensure a positive user experience Managed and trained more junior developers with development and maintenance of the old website Software Developer Mochimo May 2018 to August 2018 Developed a crossplatform wallet in C for Mochimo a quantumresistant cryptocurrency Debugged and solved issues with blockchain basis of the cryptocurrency Freelancer March 2016 to May 2018 Architected platforms web applications desktop applications etc for multiple clients working on numerous teams using NodeJS Python Java and more Education BS in AIML University of Minnesota MinneapolisSaint Paul MN Skills C Django Javascript Nodejs Laravel Python Java Mongodb Frameworks Mysql React Nodejs Node Additional Information Skills Languages Java C Python Javascript C FrameworksDatabases React Ember Laravel NodeJS MySQL MongoDB Django

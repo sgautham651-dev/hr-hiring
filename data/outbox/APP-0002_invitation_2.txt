@@ -1,0 +1,14 @@
+To: Arjun Mehta <arjun.mehta@example.com>
+Subject: Interview Invitation - APP-0002
+Released: 2026-11-07T12:36:12
+
+Dear Arjun,
+
+We'd like to invite you to an interview for the AI/ML area regarding application APP-0002.
+
+The interview is scheduled for Monday 9 November 2026 at 10:15.
+
+Please reply to confirm your attendance.
+
+Kind regards,
+Hiring Team

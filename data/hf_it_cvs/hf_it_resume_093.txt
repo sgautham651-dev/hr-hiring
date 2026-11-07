@@ -1,0 +1,24 @@
+Candidate IT 093
+candidate.it093@example.com | +1 555 019 0093
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Computer Security IT Specialist Computer span lSecurityspan span lITspan Specialist Information Technology Jacksonville FL Experience working in an environment with Information Security standards and best practices most recently defined for security in healthcare Experience with using Active Directory User Access for Security management as it applies to IAM Experience with regulatory compliance and audit requirements ie CMS HIPPA Experience using software automation tools to push applications to workstationsie SCCM Experience using SEIM tools to view security logs ie SPLUNK Experience using vu
+
+Projects
+- Computer span lSecurityspan span lITspan
+- Jacksonville FL Experience working in an environment with
+- Security standards and best practices most recently defined for security in healthcare
+
+Experience
+- Security management as it applies to IAM Experience with regulatory compliance and audit requirements ie CMS HIPPA Experience using software automation tools to push applications to workstationsie SCCM Experience using S
+- Experience using SQL Developer to run scripts for provisioning and deprovisioning security access
+- Experience working with various platforms
+
+Additional Resume Text
+Computer Security IT Specialist Computer span lSecurityspan span lITspan Specialist Information Technology Jacksonville FL Experience working in an environment with Information Security standards and best practices most recently defined for security in healthcare Experience with using Active Directory User Access for Security management as it applies to IAM Experience with regulatory compliance and audit requirements ie CMS HIPPA Experience using software automation tools to push applications to workstationsie SCCM Experience using SEIM tools to view security logs ie SPLUNK Experience using vulnerability scanning tools to manage risk on a network and mitigate findingsie Nessus Experience with Privileged Access Management and Baseline Control Experience using SQL Developer to run scripts for provisioning and deprovisioning security access Experience working with various platforms Mainframe Windows Unix Linux Experience in technical writing and updating policies and procedures ie SOP Security and Audit remediation report Excellent analytical decision making problem solving skills and attention to detail Ability to articulate both verbally and written to technical and nontechnical audiences of various levels Proven ability to be flexible and work hard both independently and on a team with a focus on deadlines in a fast paced environment with changing priorities Ability and willingness to quickly learn new security tools and technologies Authorized to work in the US for any employer Work Experience Computer Security IT Specialist Florida Blue Jacksonville FL August 2016 to Present Ensure all the users in organization have appropriate levels of access to applications systems and data resources Recommends and implements changes to enhance security controls and prevent unauthorized access Responsible for endtoend completion of security request Provision user security roles and manages security groups across systems platforms databases applications servers directories and folders Analyze existing role structures to improve security administration and end user experience Maintain and create application scripts and use application tools to manage application security Create and maintain operational procedures and maintain security knowledge base Perform audit support activities for internal and external audit SECURITY ANALYST GuideWell Jacksonville FL June 2014 to August 2016 Responsible for monitoring security baseline for anomalies and updating exceptions Enforce security policies and procedures by monitoring privileged profiles for authorized access Monitor all privilege access among 3 domains within Win and Unix environments Serve as active member of access control team and participate in security risk remediation efforts by having in depth knowledge of the established baseline authorized access and security guidelines Resolve monitor and triage incoming Service Desk responses to access control and maintain SLA timelines Assisted with security audits as part of a comprehensive effort to review and strengthen info sec compliance and privacy policies Help develop a remediation plan to reduce risk in access control through utilizing SEIM tools security assessments and pen testing Participate in security incident response process as it pertains to access control Assisted internal and external audit teams by performing Corrective Action Plan for Audit Gaps across multiple OS platforms in accordance with established standards Implement security con

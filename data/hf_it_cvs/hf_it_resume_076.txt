@@ -1,0 +1,24 @@
+Candidate IT 076
+candidate.it076@example.com | +1 555 019 0076
+
+Profile
+Database Administrator Job
+
+Education
+- BSC in Electrical and Computer Engineering
+
+Technical Skills
+Senior Software Developer Senior span lSoftwarespan span lDeveloperspan Senior Software Developer Cox Media Group Videa Atlanta GA A resultsoriented software developer with over 15 years of experience and a proven track record in frontend development microservices API and backend development cloud and serverless application development and enterprise distributed systems design and development Involved in all aspects of SDLC Concept Design Development and CICD Worked on various sized Kanban and Agile teams responsible for the development of AWS Serverless and Cloudbased apps AspNet Core MVC and
+
+Projects
+- Senior span lSoftwarespan span lDeveloperspan
+- Atlanta GA A resultsoriented software developer with over 15 years of experience and a proven track record in frontend development microservices API and backend development cloud and serverless application development an
+- Involved in all aspects of SDLC Concept
+
+Experience
+- Development and CICD Worked on various sized
+- Agile teams responsible for the development of AWS Serverless and
+- Docker and containerized apps WPF and
+
+Additional Resume Text
+Senior Software Developer Senior span lSoftwarespan span lDeveloperspan Senior Software Developer Cox Media Group Videa Atlanta GA A resultsoriented software developer with over 15 years of experience and a proven track record in frontend development microservices API and backend development cloud and serverless application development and enterprise distributed systems design and development Involved in all aspects of SDLC Concept Design Development and CICD Worked on various sized Kanban and Agile teams responsible for the development of AWS Serverless and Cloudbased apps AspNet Core MVC and Razor apps Angular and React web apps Docker and containerized apps WPF and Windows Forms desktop apps DevOps CICD pipelines SSIS Integration and ETL pipelines WCF GRPC Protobuf and WebAPI backend services Mulesoft ESB Integration apps and various relational and document databases and stored procedures based applications A very fast and capable learner and seeking a role where I can utilize my broad and diverse knowledge Work Experience Senior Software Developer Cox Media Group Videa January 2015 to Present Designed and developed several AWS serverless and cloud solutions and complex data processing pipelines including ETL and data ingestions workflows dealing with structure and unstructured data to support company internal and external workflows Serverless apps ingested data from external partners FTP sites Nielsen Ratings files comScore Ratings files Strata TvInvoice 4A files into internal AWS S3 buckets that kicked off complex orchestration workflows to land data in format for frontend apps Assisted and worked with offshore team based in Belarus in writing endtoend integration tests Technology Used AWS CloudFormation Lambda Functions developed in C and Python Step Functions Net Core gRPC microservices hosted on KubernetesAKS for custom business logic and data enrichment Docker containers for CICDLocal Integration Test C Python YAML AWS SAM AWS SMS AWS Aurora RDS AWS Postgresql RDS AWS VPC AWS EC2 AWS S3 AWS SQS AWS SNS Visual Studio VS Code Git SQL Server Net Core gRPC services DataDog for monitoring Azure DevOpsVSTS Designed and developed several C Net Core gRPC Protobuf microservices and API endpoints that performed various CRUD functionalities to support company internal apps and properties Microservices hosted in Docker containers on Mesos Assisted in the eventual migration of these microservices to AKSKubernetes Technology Used Visual Studio C Net Core AspNet Core MVC gRPC Protobuf CQRS with Mediatr TopShelf HangFire Docker Serilog Dapper SQL Server 2016 AWS AKSKubernetes AWS SMS AWS KMS DataDog Designed and developed an AspNet CoreReact Power BI Embedded application to host internal PowerBI reports Developed backend Net Core gRPC service to manage token flow for this app Technology Used AspNet Core Net Core C gRPC PowerBI Visual Studio Designed and developed several Mulesoft ESB Integration Flows and API Gateway applications that interface with internal apps and thirdparty systems including Salesforce API Wrote custom Mulesoft gRPC connectors using Anypoint Studio DevKit to connect with internal gRPC services and various data stores Later rewrote and migrated this app to an AWS Serverless app due to company moving all their workload to AWS and off Mulesoft Technology Used Mulesoft Anypoint Studio Java Mulesoft Dataweave gRPC Protobuf Java Mulesoft DevKit and ApiKit RAML Maven for CICD Salesforce API Inherited and updated several QA CLI au

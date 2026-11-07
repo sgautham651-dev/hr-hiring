@@ -1,0 +1,24 @@
+Candidate IT 015
+candidate.it015@example.com | +1 555 019 0015
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+SQL DeveloperData Analyst SQL DeveloperData Analyst SQL DeveloperData Analyst Leman USA Oak Creek WI Over 8 years of experience as SQL Developer with specialized skills in SQL Server Integration Services SSIS and creating SQL statements using stored procedures for reports and extracts Excellent TSQL Developer skills Has experience with SQL Server versions 200520082008 R22012 Proficient in writing complex SQL queries SQL Server Integration Services Visual Studio Project ETL Automation Processes etc Work Experience SQL DeveloperData Analyst Leman USA Milwaukee WI 2018 to Present LEMAN helps cust
+
+Projects
+- Creek WI Over 8 years of experience as SQL Developer with specialized skills in SQL Server
+- Services SSIS and creating SQL statements using stored procedures for reports and extracts
+- Excellent TSQL Developer skills
+
+Experience
+- Has experience with SQL Server versions 200520082008 R22012
+- Proficient in writing complex SQL queries SQL Server
+- Experience SQL DeveloperData
+
+Additional Resume Text
+SQL DeveloperData Analyst SQL DeveloperData Analyst SQL DeveloperData Analyst Leman USA Oak Creek WI Over 8 years of experience as SQL Developer with specialized skills in SQL Server Integration Services SSIS and creating SQL statements using stored procedures for reports and extracts Excellent TSQL Developer skills Has experience with SQL Server versions 200520082008 R22012 Proficient in writing complex SQL queries SQL Server Integration Services Visual Studio Project ETL Automation Processes etc Work Experience SQL DeveloperData Analyst Leman USA Milwaukee WI 2018 to Present LEMAN helps customers all over the world with their transport and logistics needs Regardless of the size of the job our aim is always the same to compose a solution that best serves the interests of the customer in terms of time and price This requires experience flexibility and creativity Performing ETL processing of various client order invoice order shipment data into and exported with TCM94 ERP database using various file formats such as XML CSV TXT etc Maintenance and creation of SQL Server Reporting Services SSRS reports to be disseminated by key management and customer service staff Creating database maintenance tasks for optimal database processes as well as removal of archival logs in order to save on space on the server Provide support to Customer Service representatives with order electronic load issues order processes reporting of any manual and automated processes Work exclusively with an ERP system called TCM94 a WMS system called eWarehouse and a shipping program called Process Shipper to either pull various data schemas from any of the corresponding databases or work with the underlining application processes SQL Server 2008 R2 databases that support the ERP and WMS systems 10 various databases that either compile the data from the support systems andor created to provide key entry for billing and invoicing Assist with some Help Desk processes by startingstopping services routers and various other IT assistance with user issues Support SQL Server Integrated Services SSIS existing processes that imports CSV files and create the flat file for import into TCM to create orders Created an incoming order system that pulls the files from an SFTP site import XML to a table then shred the XML orders to import data into SQL tables and create the flat file for import into TCM94 As part of this project there was a need to create the export of the order with shipment information in XML format that was created using SQL XML format and posted to same SFTP site Started working with company created file movement processing similar to BizTalk using C backend programming called DocumentFlow Created flows in the program to convert various file formats to XML to be loaded into other data systems Junior Database Administrator Milliman Intelliscript Brookfield WI February 2018 to July 2018 Milliman Intelliscript specializes in risk management solutions for the insurance industry We combine industryleading data and expertise with dedicated customer service to bring our clients innovative solutions Assist Senior Database Administrator with various database issues such as data integrity connectivity reliability and problem resolution Perform and administer security access requests for 4 different servers in 3 different environments Documentation of current processes and new processes Monitor MSSQL database alerts and data bottlenecks Perform adhoc backups of databases as we

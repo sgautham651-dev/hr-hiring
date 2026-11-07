@@ -1,0 +1,24 @@
+Candidate IT 062
+candidate.it062@example.com | +1 555 019 0062
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+PYTHON DEVELOPER span lPYTHONspan span lDEVELOPERspan PYTHON DEVELOPER Hamilton Bank Over 4 years of IT experience in designing developing testing and implementing of various standalone and clientserver architecturebased enterprise application software in Python Java Experienced in developing MVTMVC architecturebased applications using Django Flask Web2py frameworks Design and Developed Web Services RESTful APIs for Mobile Apps using Python DjangoREST and Flask Frameworks on Nginx and Uwsgi servers Experience in using new tools and technical developments such libraries Beautiful Soup NumPy Sci
+
+Projects
+- PYTHON DEVELOPER span lPYTHONspan span lDEVELOPERspan PYTHON DEVELOPER Hamilton
+- Over 4 years of IT experience in designing developing testing and implementing of various standalone and clientserver architecturebased enterprise application software in
+- Experienced in developing MVTMVC architecturebased applications using
+
+Experience
+- Experience in using new tools and technical developments such libraries
+- Dataframe urllib2 to drive improvements throughout entire software development lifecycle
+- Experienced in working with various
+
+Additional Resume Text
+PYTHON DEVELOPER span lPYTHONspan span lDEVELOPERspan PYTHON DEVELOPER Hamilton Bank Over 4 years of IT experience in designing developing testing and implementing of various standalone and clientserver architecturebased enterprise application software in Python Java Experienced in developing MVTMVC architecturebased applications using Django Flask Web2py frameworks Design and Developed Web Services RESTful APIs for Mobile Apps using Python DjangoREST and Flask Frameworks on Nginx and Uwsgi servers Experience in using new tools and technical developments such libraries Beautiful Soup NumPy SciPy Matplotlib Pickle PySide Pandas Dataframe urllib2 to drive improvements throughout entire software development lifecycle Experienced in working with various Python Integrated Development Environments like Pycharm PyScripter Spyder and Sublime Text Expert with JavaScript jQuery Ajax and HTMLCSS based UI development and worked on AngularJS jQuery and Bootstrap Responsive Design for frontend framework Strong Expertise in MySQL Postgres and NOSQL databases like Mongo DB and Couch DB and have experienced with databases using ORMsDOMs for integrating with MySQL Postgres MongoDB Experience in writing Subqueries Stored Procedures Triggers Cursors and functions on MySQL and PostgreSQL databases Expert at parsing scripting logging migrating data and debugging And have experience with Cloud Services like Heroku Google App Engine Amazon AWS EC2 S3 Hands on experience deploying projects in production and staging environment and also having sound experience in Core Java and ObjectOriented Programming using concepts like Multi Experience working with version control tools such as GitHub SVN Bit bucketand do familiar with development practices such as code reviews unit testing and experience in designing the automation frameworks Mentored other developers in engineering installation configuration testing and administration of Linux servers and coherent with shell scripting Experienced in Agile Methodologies Scrum stories and sprints experience in a Python based environment along with data analytics data wrangling and Excel data extracts Work Experience PYTHON DEVELOPER Hamilton Bank September 2018 to Present Responsibilities Used PythonDjango MVC framework to design and develop the application Performed Unit testing Integration Testing and generating of test cases for web applications using Junit and Python Unit test framework HudsonJenkins in the builds triggered by each push to GIT Creating Python scripts to automate daily networking tasks Ex auto Config generation retrieving information from network devices parsing data etc including a custom Fortigate firewall Config generator which included multithreaded functionality to generate Configs for multiple firewalls at once Working as an application developer experienced with controllers views and models in Django Designed front end and backend of the application using Python on Django Web Framework Develop consumerbased features and applications using Python and Django in test driven Development and pairbased programming Created Terraform scripts for EC2 instances Elastic Load balancers and S3 buckets Implemented Terraform to manage the AWS infrastructure and managed servers using configuration management tools like Chef and Ansible Used Amazon EC2 command line interface along with Bash Python to automate repetitive work Wrote ANSIBLE Playbooks with Python SSH as the Wrapper to Manage Configurations of AWS Node

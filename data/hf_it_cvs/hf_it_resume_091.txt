@@ -1,0 +1,24 @@
+Candidate IT 091
+candidate.it091@example.com | +1 555 019 0091
+
+Profile
+Database Administrator Job
+
+Education
+- MS in Enterprise Software Engineering
+
+Technical Skills
+Software Architect span lSoftwarespan Architect Software Architect Entangled Ventures Work Experience Software Architect Entangled Ventures March 2019 to Present Technologies NET Core ASPNET Core Entity Framework Core C SQL Server JavaScript Vuejs Nodejs NLP Hangfire Chrome Extensions Regular Expression Python spaCy TextBlob NLTK Postgres Elastic Search Azure AWS Google Cloud Bootstrap Ruby on Rails React Docker Linux Microservices Semaphore CI VS Code DBeaver Implement full stack and innovate on various incubation ideas using modern technologies Perform iterations and pivots to keep up with t
+
+Projects
+- Architect span lSoftwarespan
+- Technologies NET Core ASPNET Core
+- Semaphore CI VS Code DBeaver
+
+Experience
+- Implement full stack and innovate on various incubation ideas using modern technologies
+- Perform iterations and pivots to keep up with the quick change in pace
+- Brainstorm incubation ideas with
+
+Additional Resume Text
+Software Architect span lSoftwarespan Architect Software Architect Entangled Ventures Work Experience Software Architect Entangled Ventures March 2019 to Present Technologies NET Core ASPNET Core Entity Framework Core C SQL Server JavaScript Vuejs Nodejs NLP Hangfire Chrome Extensions Regular Expression Python spaCy TextBlob NLTK Postgres Elastic Search Azure AWS Google Cloud Bootstrap Ruby on Rails React Docker Linux Microservices Semaphore CI VS Code DBeaver Implement full stack and innovate on various incubation ideas using modern technologies Perform iterations and pivots to keep up with the quick change in pace Brainstorm incubation ideas with Venture Partners by providing analysis and insights from a technical perspective ComplianceEase Technologies NET Core ASPNET MVC Core Entity Framework Core C Dapper ORM JavaScript Regular Expression Vuejs Bootstrap jQuery SQL Server REST WSDL services Redis Elastic Search ABCPdf ITextSharp Jsonnet AWS Git Mercurial Jenkins Selenium JIRA Bitbucket Balsamiq eFax MISMO Software Development Manager March 2015 to March 2019 Managed my 2nd development team from the acquisition of MBS Rearchitected legacy flagship product from MBS to address key pain points that prevents it from serving a larger market segments Designed and developed the next generation flagship product to serve the mortgage documentation preparation and closing market Reduced turnaround support requests time by days or weeks to just minutes or hours by leveraging the applications data driven designs Custom fields rules documents integration mappings and other related metadata can be updated at runtime hence eliminating the need to do custom development work Ability to test the metadata at every level helps to prevent breakage in the system Built and led development teams both onshore and offshore responsible for QVP product line Mentor and coach team members to achieve higher level of autonomy Established standard development framework to reduce errors and increase quality by promoting consistency and repeatability Staff Software Developer AtHoc November 2012 to December 2013 Technologies NET ASPNET MVC Entity Framework C Dapper ORM JavaScript SQL Server Bootstrap OpenLayers Google Maps Bing Maps MapServer FFmpeg Jsonnet Knockout SimpleInjector Mustache Templates T4 Templates Designed and developed highquality software under tight deadlines for high profile customers Refactored Maps module to improve performance maintainability and added new features Designed and developed next generation UI using responsive realtime SPA concepts Worked across multiple teams to help keep the project on track Worked with a technical writer to help with documentation and training materials for users Principal Consultant March 2011 to November 2012 Designed and developed a Loan Verification Platform QVP which uses multiple data sources to verify and qualify borrowers income identity and employment Increased platform throughput by 20 times by having a centralized and secured web portal for receiving order requests streamlining backend operations for concurrency and automating the fulfillment and delivery process Founder GrubCrowd January 2011 to September 2012 Sole founder and developer responsible for bringing GrubCrowd from conception to a fully functional web application Created a fully customizable online menu for restaurants with comprehensive sharing capabilities Integrated with Yelp for reviews Member of the Microsoft BizSpark program Chief Soft

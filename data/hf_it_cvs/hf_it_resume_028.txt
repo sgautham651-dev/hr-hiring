@@ -1,0 +1,24 @@
+Candidate IT 028
+candidate.it028@example.com | +1 555 019 0028
+
+Profile
+Database Administrator Job
+
+Education
+- been generating and predict
+
+Technical Skills
+Python Developer span lPythonspan span lDeveloperspan Python Developer BCBS Plano TX Over 9 years of experience as a WebApplication Developer with deep understanding of technology trends with expertise in core of complex technologies Solid experience in Analysis Design and Development Testing Implementation production support and maintenance of various Web Applications using Python Django Extensive experience in Requirement Analysis Application Design Development and profound knowledge on SDLC using agile and Vmodel Experienced in working with various Python IDEs using PyCharm PyScripter Spyde
+
+Projects
+- Developer span lPythonspan span lDeveloperspan
+- Developer BCBS Plano TX Over 9 years of experience as a
+- Developer with deep understanding of technology trends with expertise in core of complex technologies
+
+Experience
+- Implementation production support and maintenance of various
+- Development and profound knowledge on SDLC using agile and
+- Experienced in working with various
+
+Additional Resume Text
+Python Developer span lPythonspan span lDeveloperspan Python Developer BCBS Plano TX Over 9 years of experience as a WebApplication Developer with deep understanding of technology trends with expertise in core of complex technologies Solid experience in Analysis Design and Development Testing Implementation production support and maintenance of various Web Applications using Python Django Extensive experience in Requirement Analysis Application Design Development and profound knowledge on SDLC using agile and Vmodel Experienced in working with various Python IDEs using PyCharm PyScripter Spyder PyStudio and PyDev Experienced in developing Webbased Applications using Python CSS HTML JavaScript Angular JS and jQuery Experienced in developing Web Services with Python programming language Good knowledge of Web Services with protocols SOAP REST Experience in using third party tools like Telerik DevExpress and kendo Controls Experience with containerizing applications using Docker and Vagrant Database development experience with Microsoft SQL Server in OLTPOLAP environments using integration servicesssis for ETL Experience in DTS packages migration and creating complex SSIS for ETL purposes including data migration data extractiontransformationloadingETL Profiled python code for optimization and memory management Skilled experience in Python with using new tools and technical developments Libraries Used libraries Beautiful Soup Jasy NumPy Scipy Matplotlib Pickle PySide Pandas dataframe networkX urllib2 Pychart High charts to drive improvements throughout entire SDLC Involved in Unit testing Integration testing UserAcceptance testing and Functional testing Experienced in web applications development using Django Python Flask Python and Nodejs Angularjs DOJO jQuery while using HTMLCSSJS for serverside rendered applications Experienced in developing API services in PythonTornado NodeJS while leveraging AMQP and RabbitMQ for distributed architectures Expertise in developing webbased applications using libraries and frameworks like Angular JS Bootstrap jQuery Ruby on Rails Knockoutjs Node Js Backbonejs React JS D3 JS and Require JS Having experienced in Agile Methodologies Scrum stories and sprints experience in a Python based environment along with data analytics data wrangling and Excel data extracts Having working Knowledge of Amazon AWS S3 Worked extensively on Big Data analytical models developed in Python Sound knowledge in spring Hibernate RDBMS Web XML AntMaven HTML Python Shell Scripting Extensive use of Object Oriented design methodology and Agile in software development Extensive experience in Building web applications using Kendo UI widgets jQuery Angular JS Experience object oriented programming OOP concepts using Python C and PHP Experienced in NoSQL technologies like MongoDB CouchDB Cassandra Redis and relational databases like Oracle SQLitePostgreSQL and MySQL databases Experience on Web development using HTML45 CSSCSS3 JavaScript jQuery Angular JS AJAX XML and JSON by following W3C standards Experience in developing applications using Amazon web services like EC2 Cloud Search Elastic Load balancer ELB S3 CloudFront Route 53 Extensive development experience in Java Struts JSPs Servlets taglibs Hibernate JDBC HTML JavaScript SQL XML and JSON Developed J2EE applications on IDEs like Eclipse PyCharm My Eclipse Google GWT and Rational Application Developer Proficient in developing multithreaded web services using CherryPybottlePy frame

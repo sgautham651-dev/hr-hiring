@@ -1,0 +1,24 @@
+Candidate IT 040
+candidate.it040@example.com | +1 555 019 0040
+
+Profile
+Database Administrator Job
+
+Education
+- Master of Science in Software Engineering
+
+Technical Skills
+Java Developer Java span lDeveloperspan Java Developer HSBC NJ Edison NJ Java Developer with 7 years of experience in software design and development Primary areas of technical expertise include Core Java Multithreading Spring XML JSON JDBC Oracle MySQL SQL DynamoDB RESTful Web Services etc Hands on experience with web applications development Proven experience in delivering all aspects of information technology services to clients comprising strategic systems planning to fullscale systems design development and deployment of enterprise applications software Work experience on developing appli
+
+Projects
+- Developer HSBC NJ Edison NJ Java
+- Developer with 7 years of experience in software design and development
+- Primary areas of technical expertise include
+
+Experience
+- Spring XML JSON JDBC Oracle
+- MySQL SQL DynamoDB RESTful
+- Hands on experience with web applications development
+
+Additional Resume Text
+Java Developer Java span lDeveloperspan Java Developer HSBC NJ Edison NJ Java Developer with 7 years of experience in software design and development Primary areas of technical expertise include Core Java Multithreading Spring XML JSON JDBC Oracle MySQL SQL DynamoDB RESTful Web Services etc Hands on experience with web applications development Proven experience in delivering all aspects of information technology services to clients comprising strategic systems planning to fullscale systems design development and deployment of enterprise applications software Work experience on developing application using Oracle and Spring Dependency Injection Proficient in understanding and troubleshooting complex systems built using multithreading Experience in version control systems like GitHub and BitBucket Involved in end to end life cycle of project from requirement gathering design implementation and testing Handson experience on MultiThreading Collections Exceptions Garbage Collection concepts in CORE JAVA Experience in testing using tools like JUnit Hands on experience using Eclipse for Java based application development and Visual Studio IDE for AspNet and C based application development Involved in deployment of application on Apache Tomcat server Good experience in using SQL for back end development Worked with Waterfall Agile and TestDriven methodologies Implemented various design patterns like Singleton MVC and Factory Pattern Contributed individually as well as in team Good communication skills coupled with positive user interaction team spirit Work Experience Java Developer HSBC NJ December 2017 to Present Project Diversified Investment Funds DIF Portal DIF application is used by HSBC Trust services It handles Mutual Fund products Currently Trust services offer 3 fixed Income based Mutual Fund products under the umbrella of DIF to their customers The primary objectives of this system are strike NAV all DIF provide client to service their funds generate reports and provide accurate data for regulatory purposes Responsibilities Designed and developed application using Core Java Multithreading Spring MVC SQL and RESTful web services Independently implemented DIF Customer Maintenance comprising of Customer search on various criteria updatecertify of customer details annualdecennial list and generating Customer Activity Report Worked on providing SingleSignOn functionality within the organization Effectively handled the testing QA UAT part coordinating with QA and Business Users Worked on complex SQL queries and finetuned the queries for optimum performance Contributed to application deployment on Apache Tomcat server Tracked and resolved defects logged by Users and UAT groups via JIRA Prepared and maintained enhancement and production support related documents as per quality processes to ensure quality goals are met Environment Java 17 J2EE 7 Spring JSP Servlets Spring MVC HTML5 JavaScript CSS3 XML SQL 2012 RESTful Web Services Apache Tomcat 70 Maven JUnit AngularJS 15 JIRA JDBC Template Java Developer Citigroup NJ September 2016 to November 2017 Project CitiRisk Commercial Bank CCB CitiRisk Commercial Bank is an Enterprise Risk Management Application It targets local middle market and smalltomediumsized companies in various industries It analyses the obvious risk of nonpayment or delayed payment by foreign buyers It offers attractive sales terms that accommodate the needs of foreign buyers but also minimize payment risk V2 was proposed to 

@@ -1,0 +1,24 @@
+Candidate IT 067
+candidate.it067@example.com | +1 555 019 0067
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Sr UI Developer Sr UI span lDeveloperspan Sr UI Developer Arcweb Technologies Philadelphia PA Over 8 years hands on experience in IT industry worked in all phases of software development life cycle from requirements gathering to the production and successfully implemented several projects with responsibilities as developer at different locations Developed an AngularJS workflow manager leveraging AngularUIs state router for flexible configuration and management of multistep user input flows Leveraged Angular resources for all data access encapsulating URLs and standardizing data access interfac
+
+Projects
+- Philadelphia PA Over 8 years hands on experience in IT industry worked in all phases of software development life cycle from requirements gathering to the production and successfully implemented several projects with res
+- AngularJS workflow manager leveraging
+- AngularUIs state router for flexible configuration and management of multistep user input flows
+
+Experience
+- Angular resources for all data access encapsulating URLs and standardizing data access interfaces
+- Developed data insertion forms and validated them using
+- Developed a single page UIfirst crossdevicecrossbrowser web application for realtime location sharing utilizing
+
+Additional Resume Text
+Sr UI Developer Sr UI span lDeveloperspan Sr UI Developer Arcweb Technologies Philadelphia PA Over 8 years hands on experience in IT industry worked in all phases of software development life cycle from requirements gathering to the production and successfully implemented several projects with responsibilities as developer at different locations Developed an AngularJS workflow manager leveraging AngularUIs state router for flexible configuration and management of multistep user input flows Leveraged Angular resources for all data access encapsulating URLs and standardizing data access interfaces Developed data insertion forms and validated them using JavaScript Developed a single page UIfirst crossdevicecrossbrowser web application for realtime location sharing utilizing AngularJS JavaScript API Responsible for writing and implementation of JavaScript AJAX and JQuery to interact with web Services and user controls Designed dynamic clientside JavaScript codes to build web forms and simulate process for web application page navigation and form validation Developed a multiuser web application using JSP JSTL Action Forms Action Classes Javascript and JDBC to provide the needed functionality Developed web pages using HTMLCSS and Javascript Used ReactJS for creating reusable UI components Created NodeJS middleware application server to encapsulate modern JS widget framework Developed internal application using AngularJS and NodeJS connecting to Oracle on the backend Used JavaScript for developing UI Components like Editable drop down datadriven menu customizations Designed and modified User Interfaces using Javascript and CSS Created various UI components for different web pages using HTML and Javascript Used Agile methodology for design and development of project Expertise in ObjectiveC Cocoa Touch and Cocoa framework UIKit and AppKit framework Security framework OCunit testing framework iOS SDK and MAC SDK C C VC XML Developed interactive dashboards using Visual BasicNET and Microsoft Excel Used the various Complex data structures in collections Framework in JavaJ2EE for building the Business Logic Designed developed and tested the Store management application using HTML JavaScript PHP and Postgre SQL Designed and developed the web applications and interfaces using Ruby on Rails and AJAX Used all aspects of MySQLPHP Programming object oriented PHP Zend Framework in LAMP environment Expertise in designing and developing applications using Java J2EE Technologies like Servlets JSP EJBMQ Series JDBC XMLJMS AJAX and web services Experience in working with different operating systems like WindowsXPVista and UNIX CERTIFICATE SCJP Work Experience Sr UI Developer Arcweb Technologies Philadelphia PA September 2015 to Present Responsibilities Designed Interactive GUIs using Java Applets and Swing Extensively used JDBC APIs for database connectivity and data retrieval Rearchitected and enhanced an existing AngularJS application to follow strict MVVMMVC patterns for improved source code maintenance 40 code reduction ease of upgrade scalability ease of developer spin up enhanced performance and offline with client caching Developed an AngularJS workflow manager leveraging AngularUIs state router for flexible configuration and management of multistep user input flows Leveraged Angular resources for all data access encapsulating URLs and standardizing data access interfaces Developed data insertion forms and validated them using JavaScript Developed a sing

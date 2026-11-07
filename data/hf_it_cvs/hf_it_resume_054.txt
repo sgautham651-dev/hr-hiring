@@ -1,0 +1,24 @@
+Candidate IT 054
+candidate.it054@example.com | +1 555 019 0054
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Network Administrator Network span lAdministratorspan Network Administrator ClearOne Advantage Pasadena MD Work Experience Network Administrator ClearOne Advantage Baltimore MD March 2018 to Present Managing and monitoring all systems and infrastructure to ensure highest level of availability and reliability Installing configuring testing and maintaining physicalvirtual servers Microsoft Server 2008 2012 2016 application software etc Amazon Web Services EC2 Instance creation modification management and backup WorkSpaces image creation bundle creation troubleshooting Route53 DNS host management
+
+Projects
+- Network span lAdministratorspan
+- Baltimore MD March 2018 to
+- Managing and monitoring all systems and infrastructure to ensure highest level of availability and reliability
+
+Experience
+- Installing configuring testing and maintaining physicalvirtual servers
+- Server 2008 2012 2016 application software etc
+- Instance creation modification management and backup
+
+Additional Resume Text
+Network Administrator Network span lAdministratorspan Network Administrator ClearOne Advantage Pasadena MD Work Experience Network Administrator ClearOne Advantage Baltimore MD March 2018 to Present Managing and monitoring all systems and infrastructure to ensure highest level of availability and reliability Installing configuring testing and maintaining physicalvirtual servers Microsoft Server 2008 2012 2016 application software etc Amazon Web Services EC2 Instance creation modification management and backup WorkSpaces image creation bundle creation troubleshooting Route53 DNS host management Networking changes and maintenance including Security Groups VPC Elastic IPs Gateways etc Maintain inContact call flow scripts for IVR and ACD Redesign and implementation of infrastructure to accommodate for growth from 150 employees to 650 Exchange migration of 720 mailboxes from hybrid exchange to Office 365 TelephonyUCaaS redesign and administration transitioning 650 users from third party managed phone system SpectrumBrighthouse to hosted VoIP system Goto Created scripts PowershellBatchPythonVBScript and implemented various technologies WSUSWDS providing automation to allow administrative scalability to accommodate for rapid company growth as well as better end user service without increasing department spend on employee capital Systems Technician SCD Information Technology Columbia MD May 2015 to March 2018 Appointed senior technician on TM contract with property management firm to provide installation and setup of onsite computers and networks at 200 sites across the eastern coast of the United States Interface with security and AV vendors and integrate their hardware and software into the site setup Maintain daily contact with the clients Senior Site Support IT Specialist and the Senior Manager of Information Systems on an as required basis to discuss technical and scheduling issues Work very closely with clients internal remote helpdesk staff while onsite to both decrease response and issue resolution time Increased scope of contract with client to include the management configuration and deployment of imaged PCs via KACE as well as the configuration and deployment of Meraki security and networking assets to remote sites Perform onsite and remote support to both SMBs and nonprofit organizations Provide administration and troubleshooting in Windows Server 2008 2012R2 Active Directory Exchange 20082013 Citrix and VMware ESXi environments Configure and deploy variety of UTM and network solutions to best suit client environments Responsible for assessing and deploying client needs in terms of network server and desktop infrastructure Responsible for handling Exchange migrations from onsite to hybridfull cloud based solution in o365 Responsible for handling various Windows server and domain migrations Responsible for the migration deployment and training of 160 employees pertaining to the movement of a major Clients phone system from analogue telephone lines to hosted VoIP system Nextiva Education AAS in Information Assurace and Cyber Security Anne Arundel Community College Arnold MD May 2014 Skills Technical Support Windows Networking Active Directory Javascript Microsoft Office Vmware Mac Customer Service Links httpwwwlinkedincomincarlgaskill

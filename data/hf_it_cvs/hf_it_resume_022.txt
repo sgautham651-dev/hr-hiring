@@ -1,0 +1,24 @@
+Candidate IT 022
+candidate.it022@example.com | +1 555 019 0022
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Director of Technology Director of Technology Culpeper VA Authorized to work in the US for any employer Work Experience Director of Technology August 2017 to Present Acting SecDevOps lead Responsible for leading team towards secops practices Assisted in Reducing AWS Operating Costs by 50 while acquiring premium support Wrote a webcrawler that scans through our web application deployments and reports back any vulnerabilities that are found Coordinated with team in moving form 1 ec2 classic VPC to multiple segmented vpcs for various application stacks Coordinate with producers to get their asset
+
+Projects
+- Culpeper VA Authorized to work in the US for any employer
+- Responsible for leading team towards secops practices
+- Costs by 50 while acquiring premium support
+
+Experience
+- Wrote a webcrawler that scans through our web application deployments and reports back any vulnerabilities that are found
+- Coordinated with team in moving form 1 ec2 classic VPC to multiple segmented vpcs for various application stacks
+- Coordinate with producers to get their assets deployed websites applications etc
+
+Additional Resume Text
+Director of Technology Director of Technology Culpeper VA Authorized to work in the US for any employer Work Experience Director of Technology August 2017 to Present Acting SecDevOps lead Responsible for leading team towards secops practices Assisted in Reducing AWS Operating Costs by 50 while acquiring premium support Wrote a webcrawler that scans through our web application deployments and reports back any vulnerabilities that are found Coordinated with team in moving form 1 ec2 classic VPC to multiple segmented vpcs for various application stacks Coordinate with producers to get their assets deployed websites applications etc Wrote python utility script that returns audits of all vpc ec2 r53 rds ecs assets Setup AWS Elastic Container Service POC Moved several applications to containerized dockerkubernetes cluster Implement Incident Response Plan Core Ruleset Implementation for mod security WAF Gemnasium integration for dependency management notifiesalerts and is setup to prevent builds if 1 or more librariesmodules report back a critical CVE scans through previous builds and notifies on highly vulnerable builds Wrote terraform scripts that automated secops VPC creation and peering with other vpcs in multiple aws accounts Wrote auditing tool using flaskflaskapi to help audit various AWS services IAM S3 etc CPA Global November 2016 to Present Move existing legacy application to AWS Automate the Nagios inventory scripts based on a python script and jinja template hostscfg Responsible for day to day maintenance of the application and colo environment while clients are being moved to AWS Coordinate and give direction to other staff memberscontractors Wrote several ansible playbooks that are responsible for automating deployments maintenance setting up new clients Filling massive documentation backlog Managing various collocated infrastructure such as F5 load balancers Checkpoint VPNACL Vsphere deployment NetApp appliance etc Performing deployments to AWS as well as colocated environment in a synchronized methodical manner utilizing puppet and cloudformation and ansible in collocated stack Rewrite Nagios monitoring into lambda functions that we leverage using cloudwatch Rearchitect Admin and Gateway instance infrstraucture into a single nat instance with vpc direct connect from our vpn end point to the various vpc endpoints Rewrite several perl scripts into python Lead a team of 3 other members towards our AWS move finishline and automate tasks in colo environment in preparation of remaining client migrations to AWS Interface with various offsiteremote resources DevOPS Engineer FinchComputing May 2016 to Present Move existing atlassian stack to AWS Automate builds utilizing python build scripts for both windows and linux builds Maintain Cmake scripts as per Development needs Maintain Ansible deployment scripts Automate Bamboo build agents so that Agents are provisioned for a build plan and then terminated after builds are complete tests succeeded Unit Regression and Functional Tests Automate infrastructure provisioning and scaling Participate in multiple team scrums as a DevOps resource Black Team C core application Orange Team Java Python and Blue Team NodeJS Modular Builds JiraBamboo CIIntegration Deploy maintain and integrate Artifactory for Bamboo artifact management DevOPS Engineer Aquilent October 2014 to May 2016 Developed and deployed application that processes http post data to log files via Python Tornado framework Write salt for

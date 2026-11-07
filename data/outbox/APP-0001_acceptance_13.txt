@@ -1,0 +1,12 @@
+To: Ananya Iyer <ananya.iyer@example.com>
+Subject: Welcome to the Flutter Area!
+Released: 2026-11-07T13:07:08
+
+Dear Ananya,
+
+Congratulations on your selection for the Flutter area! Please use work ID 1001 in all your communications.
+
+Your team will contact you with the onboarding details.
+
+Kind regards,
+Hiring Team

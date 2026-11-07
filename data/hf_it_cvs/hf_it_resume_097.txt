@@ -1,0 +1,24 @@
+Candidate IT 097
+candidate.it097@example.com | +1 555 019 0097
+
+Profile
+Database Administrator Job
+
+Education
+- best practices for ease of code maintenance and reuse Education Boot Camp in Software Engineering
+
+Technical Skills
+Software Developer span lSoftwarespan span lDeveloperspan Software Engineer Philadelphia PA Authorized to work in the US for any employer Work Experience Software Developer Freya Systems LLC Media PA August 2018 to Present Working as a full stack developer on several web applications with various architectures Technologies I interact with regularly include Front end angularjs React Build tools gulp webpack Data visualizations eCharts Back end Java Spring Boot Database PostgreSQL Continuous Integration Jenkins Pivotal Cloud Foundry Acting company lead on front end technologies especially ReactR
+
+Projects
+- Developer span lSoftwarespan span lDeveloperspan
+- Philadelphia PA Authorized to work in the US for any employer
+- Systems LLC Media PA August 2018 to
+
+Experience
+- Working as a full stack developer on several web applications with various architectures
+- Technologies I interact with regularly include
+- Data visualizations eCharts
+
+Additional Resume Text
+Software Developer span lSoftwarespan span lDeveloperspan Software Engineer Philadelphia PA Authorized to work in the US for any employer Work Experience Software Developer Freya Systems LLC Media PA August 2018 to Present Working as a full stack developer on several web applications with various architectures Technologies I interact with regularly include Front end angularjs React Build tools gulp webpack Data visualizations eCharts Back end Java Spring Boot Database PostgreSQL Continuous Integration Jenkins Pivotal Cloud Foundry Acting company lead on front end technologies especially ReactRedux Taking leadership of one of the applications I work on coordinating releases with testing team pushing for the adoption of Agile methodologies and best practices across the board Analyst JPMorgan Chase Wilmington DE January 2017 to July 2018 Worked in a team to release ASAP an internal web app for attestation Participated in requirements discussions with client and team and offered both implementation and web design solutions Performed testing bug fixes and new development ASAP 20 React JavaSpring Boot OracleDB Acted as front end lead developer and was responsible for choosing the tech stack as well as getting the team up to speed on the new technologies and establishing patterns for React components Delivered initial page mock ups and further implementation on those pages Also developed some JavaSpring Boot logic integrated those services with front end and wrote JUnit tests ASAP 10 AngularJS JavaSpring Boot OracleDB Prepared product readiness documentation while gaining familiarity with the product and codebase Helped team with release by fixing bugs and eventually offering creative solutions and developing new AngularJS components as well as pushing the team to adapt best practices for ease of code maintenance and reuse Education Boot Camp in Software Engineering Zip Code Wilmington Wilmington DE September 2016 to December 2016 Bachelor of Arts in Computer Science University of Delaware Newark DE December 2013 Associates in Arts University of Delaware Newark DE June 2011 Skills Java 3 years AngularJS 3 years ReactJS 3 years CSS 3 years Javascript 3 years HTML 3 years

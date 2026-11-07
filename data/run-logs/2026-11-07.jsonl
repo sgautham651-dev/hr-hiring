@@ -1,0 +1,145 @@
+{"at": "2026-11-07T12:23:19", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 1, "seconds": 9.42, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:23:28", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 1, "seconds": 0.01, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:23:28", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 1, "seconds": 10.73, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:23:39", "employee": "Recruiter", "routine": "score-match", "candidate_id": 1, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:23:39", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 1, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:23:39", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 1, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:23:39", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 2, "seconds": 9.87, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:23:49", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 2, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:23:49", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 2, "seconds": 6.23, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:23:55", "employee": "Recruiter", "routine": "score-match", "candidate_id": 2, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:23:55", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 2, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:23:55", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 2, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:23:55", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 3, "seconds": 7.11, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:24:02", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 3, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:02", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 3, "seconds": 5.2, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:24:07", "employee": "Recruiter", "routine": "score-match", "candidate_id": 3, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:07", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 3, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:07", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 3, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:07", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 4, "seconds": 10.15, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:24:17", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 4, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:17", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 4, "seconds": 6.88, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:24:24", "employee": "Recruiter", "routine": "score-match", "candidate_id": 4, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:24", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 4, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:24", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 4, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:24", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 5, "seconds": 8.61, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:24:33", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 5, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:33", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 5, "seconds": 5.83, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:24:39", "employee": "Recruiter", "routine": "score-match", "candidate_id": 5, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:39", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 5, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:39", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 5, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:39", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 6, "seconds": 10.52, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:24:49", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 6, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:49", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 6, "seconds": 8.22, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:24:57", "employee": "Recruiter", "routine": "score-match", "candidate_id": 6, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:57", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 6, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:57", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 6, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:24:57", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 7, "seconds": 15.31, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:25:13", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 7, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:25:13", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 7, "seconds": 12.1, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:25:25", "employee": "Recruiter", "routine": "score-match", "candidate_id": 7, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:25:25", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 7, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:25:25", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 7, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:25:25", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 8, "seconds": 19.16, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:25:44", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 8, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:25:44", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 8, "seconds": 13.81, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:25:58", "employee": "Recruiter", "routine": "score-match", "candidate_id": 8, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:25:58", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 8, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:25:58", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 8, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:25:58", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 9, "seconds": 19.43, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:26:17", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 9, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:26:17", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 9, "seconds": 10.4, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:26:28", "employee": "Recruiter", "routine": "score-match", "candidate_id": 9, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:26:28", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 9, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:26:28", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 9, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:26:28", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 10, "seconds": 15.08, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:26:43", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 10, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:26:43", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 10, "seconds": 8.77, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:26:52", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 11, "seconds": 15.99, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:27:08", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 11, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:08", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 11, "seconds": 9.91, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:27:18", "employee": "Recruiter", "routine": "score-match", "candidate_id": 11, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:18", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 11, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:18", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 11, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:18", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 12, "seconds": 16.18, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:27:34", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 12, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:34", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 12, "seconds": 8.29, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:27:42", "employee": "Recruiter", "routine": "score-match", "candidate_id": 12, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:42", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 12, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:42", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 12, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:42", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 13, "seconds": 15.76, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:27:58", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 13, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:27:58", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 13, "seconds": 11.07, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:28:09", "employee": "Recruiter", "routine": "score-match", "candidate_id": 13, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:28:09", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 13, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:28:09", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 13, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:28:09", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 14, "seconds": 18.2, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:28:27", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 14, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:28:27", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 14, "seconds": 77.37, "outcome": "fallback", "model_calls": 3, "note": "Last problems: None of the evidence phrases are written in the CV. Quote 1 to 4 short phrases copied exactly from the CV."}
+{"at": "2026-11-07T12:29:45", "employee": "Recruiter", "routine": "score-match", "candidate_id": 14, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:29:45", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 14, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:29:45", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 14, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:29:45", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 15, "seconds": 19.26, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:30:04", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 15, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:30:04", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 15, "seconds": 23.79, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:30:28", "employee": "Recruiter", "routine": "score-match", "candidate_id": 15, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:30:28", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 15, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:30:28", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 15, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:30:28", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 16, "seconds": 22.43, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:30:50", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 16, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:30:50", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 16, "seconds": 13.11, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:31:03", "employee": "Recruiter", "routine": "score-match", "candidate_id": 16, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:31:03", "employee": "Recruiter", "routine": "skill-gap", "candidate_id": 16, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:31:03", "employee": "Recruiter", "routine": "shortlist", "candidate_id": 16, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:31:03", "employee": "Recruiter", "routine": "parse-cv", "candidate_id": 17, "seconds": 18.48, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:31:22", "employee": "Recruiter", "routine": "duplicate-check", "candidate_id": 17, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T12:31:22", "employee": "Recruiter", "routine": "choose-area", "candidate_id": 17, "seconds": 9.88, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:31:32", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 1, "seconds": 0.01, "outcome": "ok", "model_calls": 0, "note": "Slot Monday 9 November 2026 at 09:30"}
+{"at": "2026-11-07T12:31:32", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 1, "seconds": 12.03, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:31:44", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 1, "seconds": 7.37, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:31:51", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 2, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Monday 9 November 2026 at 10:15"}
+{"at": "2026-11-07T12:31:51", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 2, "seconds": 13.57, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:32:05", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 2, "seconds": 7.56, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:32:12", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 4, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Monday 9 November 2026 at 11:00"}
+{"at": "2026-11-07T12:32:12", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 4, "seconds": 10.49, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:32:23", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 4, "seconds": 7.22, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:32:30", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 6, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Monday 9 November 2026 at 11:45"}
+{"at": "2026-11-07T12:32:30", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 6, "seconds": 11.26, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:32:41", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 6, "seconds": 7.43, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:32:49", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 7, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Monday 9 November 2026 at 14:00"}
+{"at": "2026-11-07T12:32:49", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 7, "seconds": 12.66, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:33:01", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 7, "seconds": 7.73, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:33:09", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 8, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Monday 9 November 2026 at 14:45"}
+{"at": "2026-11-07T12:33:09", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 8, "seconds": 10.87, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:33:20", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 8, "seconds": 8.56, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:33:29", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 9, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Monday 9 November 2026 at 15:30"}
+{"at": "2026-11-07T12:33:29", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 9, "seconds": 12.2, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:33:41", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 9, "seconds": 7.97, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:33:49", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 11, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Tuesday 10 November 2026 at 09:30"}
+{"at": "2026-11-07T12:33:49", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 11, "seconds": 11.39, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:34:00", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 11, "seconds": 8.14, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:34:08", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 12, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Tuesday 10 November 2026 at 10:15"}
+{"at": "2026-11-07T12:34:08", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 12, "seconds": 10.35, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:34:19", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 12, "seconds": 8.5, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:34:27", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 13, "seconds": 0.01, "outcome": "ok", "model_calls": 0, "note": "Slot Tuesday 10 November 2026 at 11:00"}
+{"at": "2026-11-07T12:34:27", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 13, "seconds": 11.11, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:34:38", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 13, "seconds": 7.42, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:34:46", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 14, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Slot Tuesday 10 November 2026 at 11:45"}
+{"at": "2026-11-07T12:34:46", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 14, "seconds": 15.69, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:35:02", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 14, "seconds": 9.18, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:35:11", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 16, "seconds": 0.01, "outcome": "ok", "model_calls": 0, "note": "Slot Tuesday 10 November 2026 at 14:00"}
+{"at": "2026-11-07T12:35:11", "employee": "Coordinator", "routine": "prepare-questions", "candidate_id": 16, "seconds": 15.49, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T12:35:26", "employee": "Coordinator", "routine": "invite-and-slots", "candidate_id": 16, "seconds": 12.68, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T13:06:05", "employee": "Onboarding", "routine": "issue-work-id", "candidate_id": 1, "seconds": 0.01, "outcome": "ok", "model_calls": 0, "note": "Work ID 1001"}
+{"at": "2026-11-07T13:06:05", "employee": "Onboarding", "routine": "draft-acceptance", "candidate_id": 1, "seconds": 6.59, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T13:06:11", "employee": "Onboarding", "routine": "induction-checklist", "candidate_id": 1, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T13:06:14", "employee": "Coordinator", "routine": "update-register", "candidate_id": 8, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Result Hold"}
+{"at": "2026-11-07T13:06:14", "employee": "Coordinator", "routine": "reply-failed-or-hold", "candidate_id": 8, "seconds": 4.43, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T13:06:22", "employee": "Onboarding", "routine": "issue-work-id", "candidate_id": 16, "seconds": 0.01, "outcome": "ok", "model_calls": 0, "note": "Work ID 1002"}
+{"at": "2026-11-07T13:06:22", "employee": "Onboarding", "routine": "draft-acceptance", "candidate_id": 16, "seconds": 4.16, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T13:06:26", "employee": "Onboarding", "routine": "induction-checklist", "candidate_id": 16, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T13:06:29", "employee": "Onboarding", "routine": "issue-work-id", "candidate_id": 2, "seconds": 0.01, "outcome": "ok", "model_calls": 0, "note": "Work ID 1003"}
+{"at": "2026-11-07T13:06:29", "employee": "Onboarding", "routine": "draft-acceptance", "candidate_id": 2, "seconds": 3.58, "outcome": "ok", "model_calls": 1, "note": ""}
+{"at": "2026-11-07T13:06:33", "employee": "Onboarding", "routine": "induction-checklist", "candidate_id": 2, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": ""}
+{"at": "2026-11-07T13:06:35", "employee": "Coordinator", "routine": "update-register", "candidate_id": 12, "seconds": 0.0, "outcome": "ok", "model_calls": 0, "note": "Result Fail"}
+{"at": "2026-11-07T13:06:35", "employee": "Coordinator", "routine": "reply-failed-or-hold", "candidate_id": 12, "seconds": 4.32, "outcome": "ok", "model_calls": 1, "note": ""}

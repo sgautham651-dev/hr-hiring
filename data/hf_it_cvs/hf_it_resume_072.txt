@@ -1,0 +1,24 @@
+Candidate IT 072
+candidate.it072@example.com | +1 555 019 0072
+
+Profile
+Database Administrator Job
+
+Education
+- Masters in Computer Science
+
+Technical Skills
+Software Automation Lead Enterprise Retail Systems span lSoftwarespan Automation Lead Enterprise Retail Systems Software Automation Lead Enterprise Retail Systems Redmond WA Authorized to work in the US for any employer Work Experience Software Automation Lead Enterprise Retail Systems Kroger Co Cincinnati OH May 2017 to May 2018 Created plans strategy test cases and automation platform to enable both UI integration and back end testing for Krogers enterprise POS retail systems It not only improved the product quality and reduced the product release cycles but also made Kroger test developers 
+
+Projects
+- Systems span lSoftwarespan
+- Redmond WA Authorized to work in the US for any employer
+- Created plans strategy test cases and automation platform to enable both UI integration and back end testing for
+
+Experience
+- Krogers enterprise POS retail systems
+- It not only improved the product quality and reduced the product release cycles but also made
+- Kroger test developers 15 more productive and saved 65 million dollars by reducing the manual testing hours
+
+Additional Resume Text
+Software Automation Lead Enterprise Retail Systems span lSoftwarespan Automation Lead Enterprise Retail Systems Software Automation Lead Enterprise Retail Systems Redmond WA Authorized to work in the US for any employer Work Experience Software Automation Lead Enterprise Retail Systems Kroger Co Cincinnati OH May 2017 to May 2018 Created plans strategy test cases and automation platform to enable both UI integration and back end testing for Krogers enterprise POS retail systems It not only improved the product quality and reduced the product release cycles but also made Kroger test developers 15 more productive and saved 65 million dollars by reducing the manual testing hours Modernized the automation platform by showcasing the benefits to the stakeholders and shifted Krogers quality automation organization to modern technologies like Winium WinAppDriver Appium Developed automation frameworks SDK and establish infrastructure for creation of automated scripting following the Page Object Model POM using JAVA Evangelized the use of GIT Bitbucket within the organization and established an organization wide GIT repository for sharing common automation code to enable massive scaling and easy code collaboration between developers Established the CICD pipeline in TeamCity for the deployment of continuous automation builds with proper build agents Interviewed hired and onboarded 25 new high caliber automation engineers to fill open positions Coordinated Scrum teams Agile and DevOp groups to execute the best automation and deployment plans Software Automation Developer Automated Production Planning Kroger Technology Cincinnati OH May 2016 to May 2017 Worked with technical and business resources of Krogers produce management applications to analyze and gather requirements to develop Automation test scenarios for end to end testing of UI service and database Generated and maintained Automation test scripts using various automation test tools for mobile iOSAndroid using Appium and web browser testing using Selenium WebDriver Developed modular automation framework using objectoriented programming methodologies OOPS and TestNG frameworks Prepared end user manual and internal documentation for developed framework Improved live site support by automating SOP battle cards into an automated recovery mechanism Angular Developer TravelCLICK New York NY August 2015 to May 2016 Designed and developed push notification infrastructure and integrated it with existing portal UI to showcase the notifications using a standalone SPA AngularJS widget Enhances web portal responsiveness by implementing custom clientside verification logic in the UI by building custom Angular JS messages modules Developed Custom Directives functions to have a consistent user experience across the TavelClick products Built high scale highly available distributed web service to enable notification functionality and exposed it via industry standard REST API and JSON Worked on cross browser compatibility issues and fix the bugs pertaining to various browsers for the widget Software Developer Ezentech Pvt Ltd Delhi Delhi August 2012 to August 2013 Upgraded internal web site and UI using Java servlets and JQuery to improve search function and user interaction Gathered and analyzed client requirements drew out business logic for current and future implementation Education Masters in Computer Science University of Florida Gainesville FL August 2013 to May 2015 Bachelors in Computer Science Birl

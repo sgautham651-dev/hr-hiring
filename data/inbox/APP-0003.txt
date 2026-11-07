@@ -1,0 +1,18 @@
+Daniel Kim
+daniel.kim@example.com | +1 416 555 0144 | Toronto, Canada
+
+Profile
+Computer engineering student who enjoys working with servers and open-source tools.
+
+Education
+BASc in Computer Engineering, University of Toronto (2022 - 2026)
+
+Skills
+Linux, Git, Docker, Python, MySQL, Networking basics
+
+Projects
+- Ran a small web app in a Docker container on a Linux virtual machine for a university course
+- Library management system in Python and MySQL
+
+Activities
+- Member of the university open-source club

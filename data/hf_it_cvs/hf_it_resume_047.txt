@@ -1,0 +1,24 @@
+Candidate IT 047
+candidate.it047@example.com | +1 555 019 0047
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Python Developer span lPythonspan span lDeveloperspan 6147696658 Woodlandhills CA Around 5 years of experience in Python with Development ApplicationData Integrations projects Service Oriented Architecture SOA Data Migration Business Process Reengineering Stakeholder Management Business Analysis Change Management System Development Testing experience in various domains Worked on endtoend solutions production support architecting and enhancements Good experience of software development in Python libraries used libraries Beautiful Soup numpy scipy matplotlib Python twitter Pandas data frame netw
+
+Projects
+- Developer span lPythonspan span lDeveloperspan 6147696658
+- Woodlandhills CA Around 5 years of experience in
+- Testing experience in various domains
+
+Experience
+- Worked on endtoend solutions production support architecting and enhancements
+- Good experience of software development in
+- Python libraries used libraries
+
+Additional Resume Text
+Python Developer span lPythonspan span lDeveloperspan 6147696658 Woodlandhills CA Around 5 years of experience in Python with Development ApplicationData Integrations projects Service Oriented Architecture SOA Data Migration Business Process Reengineering Stakeholder Management Business Analysis Change Management System Development Testing experience in various domains Worked on endtoend solutions production support architecting and enhancements Good experience of software development in Python libraries used libraries Beautiful Soup numpy scipy matplotlib Python twitter Pandas data frame network urllib2 MySQL DB for database connectivity and IDEs sublime text Spyder pycharm emacs Experience with Web Development Web Services Python and the Django framework Good experience in developing web applications implementing Model View Control architecture using Django web application frameworks Proficient in Front end development experience using HTML XML CSS Javascript and JSON Expertise in ObjectOriented design and coding Good knowledge of various Design Patterns and UML Experience with continuous integration and automation using Jenkins Designed and implemented large scale business critical systems Developed web applications and RESTful web services and APIs using Python Flask and Django Good knowledge of web services with protocols SOAP REST Good knowledge of server Apache Tomcat Web logic Familiar with JSON based REST Web services and Amazon Web services Experienced in working with various Python IDEs using PyCharm PyScripter Spyder PyStudio and PyDev Write MATLAB code to create discretized computer models of sloped levy geometries Experience in writing Sub Queries Stored Procedures Triggers Cursors and Functions on MySQL and PostgreSQL database Leveraging queueing architectures with Rabbit MQ for scalability performance and building Experienced in agile and waterfall methodologies with high quality deliverables delivered ontime Experience with Unit testing Test driven Development TDD Load Testing Have the ability to understand complex systems and be in command of the details to provide solutions Excellent analytical and problemsolving skills and ability to work on own besides being a valuable and contributing team player Work Experience Python Developer Woodland Hills CA August 2017 to Present Responsibilities Write Python scripts to update content in the database and manipulate files Involved in building database Model APIs and Views utilizing Python technologies to build applications Visualize and manipulate the data using various machine learning libraries like Numpy Scipy and Pandas in Python scripts for the perfect analysis of data Create ETL Extract Transform Load design mapping sheets data reconciliation strategy data archival strategy ETL framework Used Pyodbc to connect the python application to the SQL server driver and also used Bulk Copy Program BCP in the application to import and export large sets of data Experience with Python Pickling Used the Pickles to store the data and load the pickles and merge the latest customer information into the pickles Prepare Scripts in Python and Windows PowerShell for Automation of administration tasks Maintain PLSQL objects like packages triggers procedures etc Expertise in code review for the code developed by team and suggesting the relevant and appropriate changes Experience in writing various regular expressions regex and find the match in data Conduct systems design feasibility and cost

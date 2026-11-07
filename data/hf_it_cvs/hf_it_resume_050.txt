@@ -1,0 +1,24 @@
+Candidate IT 050
+candidate.it050@example.com | +1 555 019 0050
+
+Profile
+Database Administrator Job
+
+Education
+- B.Sc. in Information Technology
+
+Technical Skills
+Salesforce Admin Developer Salesforce Adminspan lDeveloperspan Salesforce Admin Developer St Louis MO Over 8 years of IT experience in various stages of Software Development which includes 5 years of experience as Salesforce CRM Developer Administrator Business Analyst on Salesforcecom platform Experience in implementing technologyenabled business solutions Possess knowledge of CRM processes like Sales Marketing Customer Service and Customer Support Business processes and recommended solutions to improve their processes using salesforcecom Experience in Administration Configuration and Impleme
+
+Projects
+- Louis MO Over 8 years of IT experience in various stages of
+- Development which includes 5 years of experience as
+- Experience in implementing technologyenabled business solutions
+
+Experience
+- Possess knowledge of CRM processes like
+- Business processes and recommended solutions to improve their processes using salesforcecom
+- Salesforce SFA applications based on
+
+Additional Resume Text
+Salesforce Admin Developer Salesforce Adminspan lDeveloperspan Salesforce Admin Developer St Louis MO Over 8 years of IT experience in various stages of Software Development which includes 5 years of experience as Salesforce CRM Developer Administrator Business Analyst on Salesforcecom platform Experience in implementing technologyenabled business solutions Possess knowledge of CRM processes like Sales Marketing Customer Service and Customer Support Business processes and recommended solutions to improve their processes using salesforcecom Experience in Administration Configuration and Implementation of Salesforce CRM and Salesforce SFA applications based on Apex Language and Forcecom Platform Experience in SFDC development using Apex classes and Triggers Visual Force SControls Forcecom IDE SOQL SOSL Worked on Eclipse IDE with Forcecom Plugin for writing business logic in Apex programming language Proficiency in SFDC Administrative tasks like creating and customizing Profiles Roles Users Page Layouts Email Services Approvals Workflows Validation rules Reports Dashboards Tasks and Events Experience in data migration using Import wizard and Apex Data Loader Used Forcecom Web services API and outbound messaging for implementing web services through WSDL in the application for access to data from External systems and websites Developed SFDC Customized Reports Dashboards and Processes to continuously monitor data quality and integrity Experience in customizing Salesforce CRM for generating webtoleads and webtocases Proficiency in Object Oriented Languages like C Java JSP Servlets and other Java technologies Experience in web technologies like HTML XML CSS JSP and JavaScript Experience in databases such as Oracle and MySQL Extensively worked on Salesforcecom sandbox and production environment including creating Sandboxes and refreshing it time to time Deployment between Production and Sandboxes using Eclipse Forcecom Migration Tool and Change Set Proficiency in installing and developing Lightening App Exchange applications Hands on experience in implementing security and sharing rules at object field and record level for different users at different levels of organization Also created various profiles and configured the permissions based on the organizational hierarchy Excellent debugging and documentation skills to achieve the complex business functionality Proficient in cloud based business applications experience with data management and reporting in combination with strong analytical skills Have working experience in Design and Development of UIs Using Visualforce and HTML Good understanding of Software Development Life Cycle SDLC and Agile with expertise in Requirement gathering Analysis Designing Development and Testing Worked closely with Business Users to enabled business process using SFDC Excellent communication and interpersonal skills accustomed to working in both large and small team environments Authorized to work in the US for any employer Work Experience Salesforce Admin Developer Allied Telesis San Jose CA October 2016 to February 2018 Responsibilities Performed the role of Business Analyst interacted with various business user groups for gathering the requirements for salesforcecom Lightning and CRM implementation Documented and shared the requirements with other SalesForcecom consultants for further implementation Develop portal solution using Lightning Components Worked with Service Cloud technology and onpremise infrastru

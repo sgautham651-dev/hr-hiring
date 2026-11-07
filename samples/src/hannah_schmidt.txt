@@ -1,0 +1,18 @@
+Hannah Schmidt
+hannah.schmidt@example.com | +49 1512 0000 678 | Berlin, Germany
+
+Profile
+Accounting graduate who keeps records accurate and month-end reports on time.
+
+Education
+BA in Accounting and Finance, Free University of Berlin (2020 - 2023)
+
+Skills
+Bookkeeping, Accounting, Microsoft Excel, Reconciliation, Financial Reporting, SAP, Taxation
+
+Projects
+- Monthly bank reconciliation process for a student association with 300 members
+- Excel model that prepares the yearly profit and loss statement from the ledger
+
+Experience
+- Junior accountant, Weber und Partner (1 year): bookkeeping, invoices, reconciliations and VAT returns

@@ -1,0 +1,19 @@
+Meera Pillai
+meera.pillai@example.com | +91 99000 03344 | Hyderabad, India
+
+Profile
+Software tester who enjoys finding bugs early and writing clear test cases.
+
+Education
+B.Tech in Computer Science, Osmania University (2020 - 2024)
+
+Skills
+Manual Testing, Test Cases, Selenium, Bug Tracking, Jira, Postman, API Testing, SQL
+
+Projects
+- Automated regression testing for an online shop with Selenium and Java
+- API testing of a booking service with Postman collections
+- Test plan and 120 test cases for a college attendance app
+
+Experience
+- QA tester, CodeNest Technologies (1 year): wrote test cases, logged bugs in Jira and ran regression tests

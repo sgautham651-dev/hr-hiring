@@ -1,0 +1,24 @@
+Candidate IT 018
+candidate.it018@example.com | +1 555 019 0018
+
+Profile
+Database Administrator Job
+
+Education
+- Bachelors degree in Computer Science
+
+Technical Skills
+Windows Server Administrator Windows Server span lAdministratorspan Windows Server Administrator Louisville KY Highly motivated systems administrator with a Bachelors degree in Computer Science and a strong background in VMware Powershell Office 365 and Active Directory Authorized to work in the US for any employer Work Experience Windows Server Administrator Stored Value Solutions Louisville KY January 2019 to Present Participated in Change Control and deployment of new code revisions for developers Participated in 247 on call rotation Managed over 300 virtual machines across three sites Assi
+
+Projects
+- Server span lAdministratorspan
+- Louisville KY Highly motivated systems administrator with a
+- Science and a strong background in VMware
+
+Experience
+- Authorized to work in the US for any employer
+- Louisville KY January 2019 to
+- Control and deployment of new code revisions for developers
+
+Additional Resume Text
+Windows Server Administrator Windows Server span lAdministratorspan Windows Server Administrator Louisville KY Highly motivated systems administrator with a Bachelors degree in Computer Science and a strong background in VMware Powershell Office 365 and Active Directory Authorized to work in the US for any employer Work Experience Windows Server Administrator Stored Value Solutions Louisville KY January 2019 to Present Participated in Change Control and deployment of new code revisions for developers Participated in 247 on call rotation Managed over 300 virtual machines across three sites Assisted in creating RCAs for unplanned outages and maintenance notices for customers Patched Cisco UCS blade servers and fiber switches Maintained and deployed HPE 3Par storage arrays and expansions Maintained and deployed VMware ESXESXI VCenter and vSAN Deployed multisite SCCM environment Automated Bitlocker encryption on PC deployment using MBAM Assisted in migrating backup solution to Veeam Managed Veeam and NFS automated backup jobs Migrated domain controllers from Microsoft Server 2012R2 to Microsoft Server 2016 Automated user creation termination and inactive account remediation using Powershell Assisted security in quickly mitigating high and critical vulnerabilities Consolidated group policies and implemented new policies to maintain compliance Deployed twotier PKI infrastructure with standlone CRL endpoints across multiple sites Managed accounts in a hybrid Office 365 environment Deployed a highly available VMware Horizon environment Deployed AWS instances for new development environments Systems AdministratorIT Technician AssuredPartners Midwest Louisville KY June 2013 to January 2019 Trained new technicians Provided tier 3 escalation for desktop support Streamlined new PC builds using PDQ Deploy PDQ Inventory and Microsoft SCCM Deployed WSUS server and automated patching Managed onprem Microsoft Exchange servers and Office 365 Migrated onprem Exchange to Office 365 Migrated old 2003 functional level domain to a 2016 functional level domain Maintained and deployed multiple VMware ESXi hosts and EMC SANs Maintained over 100 physical servers across the country and over 200 virtual machines Maintained Azure virtual machines for parent company and deployed new instances as our region required Administered FireEye intrusion detection host Documented and remediated intrusion detection and security alerts Education Bachelor of Science in Computer Science Indiana University New Albany IN August 2015 to May 2019 Bachelor of Science in Computer Science University of Evansville Evansville IN August 2013 to May 2015 Skills MYSQL 3 years SQL 4 years C 2 years C 2 years Spring 2 years Java 2 years Git 3 years Linux 3 years Active Directory 6 years Powershell 6 years Docker 3 years Kubernetes 2 years Python 1 year Ansible Devops 1 year AWS 2 years Azure 2 years Links httpswwwlinkedincominjaredsanders0657a385 Awards Eagle Scout 201007
