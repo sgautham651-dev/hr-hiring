@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HR Hiring</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%231a5fb4'/%3E%3Ctext x='16' y='22' font-family='Arial' font-size='16' font-weight='bold' fill='white' text-anchor='middle'%3EH%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <header class="top">
+    <div class="top-in">
+      <a class="brand" id="brand" href="#/">HR Hiring</a>
+      <nav class="menu" id="nav" aria-label="Pages"></nav>
+      <div class="top-right">
+        <span class="model" id="model">Model: checking</span>
+        <label class="role">Role
+          <select id="role-select">
+            <option value="hr">HR Officer</option>
+            <option value="interviewer">Interviewer</option>
+          </select>
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <h1 id="page-title">Dashboard</h1>
+    <div id="view"></div>
+  </main>
+
+  <footer class="foot wrap" id="foot">HR Hiring - prototype. Emails are drafted only, never sent.</footer>
+
+  <dialog id="dialog"><div class="dlg" id="dialog-body"></div></dialog>
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
