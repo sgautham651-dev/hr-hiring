@@ -1,6 +1,14 @@
-# HR Hiring
+# SLT HR Hiring
 
-A local, AI-assisted hiring workflow. Four AI agents handle the routine work of screening CVs, scheduling interviews and drafting emails. Two people make every decision that matters.
+A local, AI-assisted intern hiring workflow built for **SLT (Sri Lanka Telecom)**. In this `main` baseline, four AI agents handle the routine work of screening CVs, scheduling interviews, and drafting emails, while two people make every decision that matters (see [Branches](#branches) for the latest 5-agent Outlook & placement-letter build).
+
+## Branches
+
+| Branch | Contents |
+|---|---|
+| `main` | Baseline 4-agent SLT HR Hiring system (CV screening, interview scheduling, onboarding, morning brief, outbox `.eml` drafts). |
+| `feature/placement-letter` | Adds CV pool, read-only Talent Hub intern sync, Planner vacancy suggestions, and Placement Letter PDFs. |
+| `feature/outlook-email-performance` *(recommended)* | Full 5-agent SLT system with Microsoft Outlook integration (`msal` + Microsoft Graph Mail API v1.0, `.eml` + PDF, Outlook Web, Office 365 SMTP) and local LLM/SQLite/scoring performance improvements. |
 
 | Role | Type | Responsibility |
 |---|---|---|
@@ -34,8 +42,9 @@ Python, FastAPI, LangGraph, SQLAlchemy (SQLite), APScheduler, llama.cpp, and pla
 ## Installation
 
 ```bash
-git clone https://github.com/sgautham651-dev/hr-hiring.git
+git clone https://github.com/AshokaBC2001/hr-hiring.git
 cd hr-hiring
+git checkout feature/outlook-email-performance   # recommended latest SLT build
 bash setup.sh
 ```
 
@@ -171,4 +180,6 @@ The tests use a scripted fake model (`tests/fake_model.py`), so no real model is
 
 ## Acknowledgements
 
-The Markdown agent structure (ROLE, SCHEDULE, RELEASES and SKILL files) follows the idea from [markfulton/ai-employees](https://github.com/markfulton/ai-employees). All people in `samples/` are fictional.
+- The Markdown agent structure (`ROLE`, `SCHEDULE`, `RELEASES` and `SKILL` files) follows the idea from [markfulton/ai-employees](https://github.com/markfulton/ai-employees).
+- The `feature/outlook-email-performance` branch also builds on [faizanfirdousi/appointment-letter-automation](https://github.com/faizanfirdousi/appointment-letter-automation) (MIT license), [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) (LGPL-3.0), and [AzureAD/microsoft-authentication-library-for-python](https://github.com/AzureAD/microsoft-authentication-library-for-python) (`msal`, MIT license).
+- All people in `samples/` are fictional.
